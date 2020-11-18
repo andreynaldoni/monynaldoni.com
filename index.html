@@ -85,7 +85,7 @@
                 <ul>
                     <li class="colorlib-active"><a href="index.html">Home</a></li>
                     <li><a href="https://www.facebook.com/pg/monynaldonifotografia/photos/?tab=albums" target="_blank">Trabalhos</a></li>
-                    <li><a href="#feed">Posts</a></li>
+                    <li><a href="#posts">Posts</a></li>
                     <li><a href="#contact">Contato</a></li>
                 </ul>
             </nav>
@@ -102,6 +102,9 @@
 
                                 <div class="slider-item js-fullheight" style="background-image:url(images/author-3.jpg);">
                                 </div>
+
+                                <div class="slider-item js-fullheight" style="background-image:url(images/author-4.jpg);">
+                                </div>
                             </section>
                         </div>
                         <div class="author-info text p-3 p-md-5">
@@ -116,17 +119,17 @@
                                 <h3 class="signature h1">Mony Naldoni</h3>
                                 <ul class="ftco-social mt-3">
                                     <li class="ftco-animate">
-                                        <a href="https://facebook.com/monynaldonifotografia/">
+                                        <a href="https://facebook.com/monynaldonifotografia/" target="_blank">
                                             <span class="icon-facebook"></span>
                                         </a>
                                     </li>
                                     <li class="ftco-animate">
-                                        <a href="https://www.instagram.com/monynaldonifotografia/">
+                                        <a href="https://www.instagram.com/monynaldonifotografia/" target="_blank">
                                             <span class="icon-instagram"></span>
                                         </a>
                                     </li>
                                     <li class="ftco-animate">
-                                        <a href="https://www.youtube.com/channel/UCYEAcTiSTdQxpj2YWxtuqng">
+                                        <a href="https://www.youtube.com/channel/UCYEAcTiSTdQxpj2YWxtuqng" target="_blank">
                                             <span class="icon-youtube"></span>
                                         </a>
                                     </li>
@@ -138,6 +141,18 @@
                                 </ul>
                             </div>
                         </div>
+                    </div>
+                </div>
+            </section>
+            <section class="ftco-section pb-0">
+                <div class="container">
+                    <div class="row justify-content-center mb-2 pb-3">
+                        <div class="col-md-7 heading-section heading-section-2 text-center ftco-animate">
+                            <h2 class="mb-4">Posts</h2>
+                        </div>
+                    </div>
+                    <div id="posts" class="row no-gutters">
+                        
                     </div>
                 </div>
             </section>
@@ -158,7 +173,7 @@
                     <div class="row mb-5">
                         <div id="contact" class="col-md-4">
                             <div class="ftco-footer-widget mb-4">
-                                <h2 class="ftco-heading-2">Alguma pergunta?</h2>
+                                <h2 class="ftco-heading-2">Quer contar sua história?</h2>
                                 <div class="block-23 mb-3">
                                     <ul>
                                         <li>
@@ -183,7 +198,7 @@
                         </div>
                         <div class="col-md-8">
                             <div class="ftco-footer-widget mb-4">
-                                <h2 class="ftco-heading-2">Onde me encotrar</h2>
+                                <h2 class="ftco-heading-2">Onde me encontrar</h2>
                                 <div class="map-responsive">
                                     <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3644.687128118282!2d-46.427647685694986!3d-24.00682298446359!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce1f50ff2dbe6f%3A0x873c21a3597e94c8!2sMony+Naldoni+Fotografia!5e0!3m2!1spt-BR!2sbr!4v1559761391596!5m2!1spt-BR!2sbr" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
                                 </div>
@@ -230,6 +245,102 @@
     <script src="js/jquery.animateNumber.min.js"></script>
     <script src="js/scrollax.min.js"></script>
     <script src="js/main.js"></script>
+    <script type="text/javascript">
+      function blogspot(json) {
+        for (var i = 0; i < json.feed.entry.length; i++) {
+          for (var j = 0; j < json.feed.entry[i].link.length; j++) {
+            if (json.feed.entry[i].link[j].rel == 'alternate') {
+              var postUrl = json.feed.entry[i].link[j].href;
+              break;
+            }
+          }
+          var postTitle = json.feed.entry[i].title.$t;
+          var postPublished = json.feed.entry[i].published.$t;
+          var postComment = json.feed.entry[i].link[1].title;
+          var postAuthor = json.feed.entry[i].author[0].name.$t;
+          var postSummary = json.feed.entry[i].summary.$t;
+          var entryShort = postSummary.substring(0,400);
+          var entryEnd = entryShort.lastIndexOf(" ");
+          var postContent = entryShort.substring(0, entryEnd) + '...';
+          var postImage = json.feed.entry[i].media$thumbnail.url.replace('s72-c/','s300/').replace('default.jpg', '0.jpg');
+
+          var col = document.createElement('div');
+          col.className = 'col-md-12';
+
+          var blogEntry = document.createElement('div');
+          blogEntry.className = 'blog-entry ftco-animate d-md-flex fadeInUp ftco-animated'
+
+          var postImageLink = document.createElement('a');
+          postImageLink.className = 'img img-2';
+          postImageLink.setAttribute('href', postImage)
+          postImageLink.setAttribute('style', 'background-image: url(' + postImage + ');width:300px')
+
+          var divText = document.createElement('div');
+          divText.className = 'text text-2 p-4'
+          
+          var postTitleText = document.createElement('h3');
+          postTitleText.className = 'mb-2';
+
+          var postTitleLink = document.createElement('a');
+          postTitleLink.setAttribute('href', postUrl);
+          postTitleLink.innerHTML = postTitle;
+          
+          var metaTitleLink = document.createElement('a');
+          metaTitleLink.setAttribute('href', postUrl);
+          metaTitleLink.innerHTML = postTitle;
+
+          var metaWrap = document.createElement('div');
+          metaWrap.className = 'meta-wrap';
+          
+          var meta = document.createElement('p');
+          meta.className = 'meta';
+
+          var metaPublished = document.createElement('span');
+          metaPublished.innerHTML = new Date(postPublished).toLocaleDateString('latn');
+
+          var metaPublished2 = document.createElement('span');
+          metaPublished2.appendChild(metaTitleLink)
+
+          var metaComment = document.createElement('span');
+          metaComment.innerHTML = postComment;
+
+          var postContentElement = document.createElement('p');
+          postContentElement.className = 'mb-4';
+          postContentElement.innerHTML = postContent
+
+          var textFooter = document.createElement('p');
+          
+          var postBottomLink = document.createElement('a');
+          postBottomLink.className = 'btn-custom';
+          postBottomLink.setAttribute('href', postUrl);
+          
+          var postBottomIcon = document.createElement('span');
+          postBottomIcon.className = 'ion-ios-arrow-forward'
+          
+          postBottomLink.innerHTML = 'Leia mais';
+          postBottomLink.appendChild(postBottomIcon);
+
+          
+          postTitleText.appendChild(postTitleLink);
+          divText.appendChild(postTitleText);
+          meta.appendChild(metaPublished);
+          meta.appendChild(metaPublished2);
+          meta.appendChild(metaComment);
+          metaWrap.appendChild(meta);
+          divText.appendChild(metaWrap);
+          divText.appendChild(postContentElement);
+          textFooter.appendChild(postBottomIcon);
+          divText.appendChild(textFooter);
+          blogEntry.appendChild(postImageLink);
+          blogEntry.appendChild(divText);
+          col.appendChild(blogEntry);
+
+          var posts = document.getElementById('posts');
+          posts.appendChild(col);
+        }
+      }
+    </script>
+    <script src="https://monynaldoni.blogspot.com/feeds/posts/summary?orderby=published&max-results=5&alt=json-in-script&callback=blogspot"></script>
     <!-- Global site tag (gtag.js) - Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-141608023-1"></script>
     <script>
