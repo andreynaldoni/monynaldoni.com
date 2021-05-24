@@ -16,9 +16,16 @@ AOS.init({
   });
 
   var fullHeight = function () {
-    $(".js-fullheight").css("height", $(window).height());
+    var height = $(window).height();
+    var homeBanner = height;
+    if ($(window).width() < 768) {
+      homeBanner = homeBanner + homeBanner / 2;
+    }
+    $(".js-fullheight").css("height", height);
+    $(".js-homebanner").css("height", homeBanner);
     $(window).resize(function () {
-      $(".js-fullheight").css("height", $(window).height());
+      $(".js-fullheight").css("height", height);
+      $(".js-homebanner").css("height", homeBanner);
     });
   };
   fullHeight();
