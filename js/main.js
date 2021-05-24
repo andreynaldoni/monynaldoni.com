@@ -24,6 +24,11 @@ AOS.init({
     $(".js-fullheight").css("height", height);
     $(".js-homebanner").css("height", homeBanner);
     $(window).resize(function () {
+      height = $(window).height();
+      homeBanner = height;
+      if ($(window).width() < 768) {
+        homeBanner = height + height / 2;
+      }
       $(".js-fullheight").css("height", height);
       $(".js-homebanner").css("height", homeBanner);
     });
