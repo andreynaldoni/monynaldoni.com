@@ -10083,7 +10083,7 @@ h5,
 }
 .photography-entry:hover .overlay,
 .photography-entry:focus .overlay {
-  opacity: 0.7;
+  opacity: 0.3;
 }
 .photography-entry:hover .text,
 .photography-entry:focus .text {
