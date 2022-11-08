@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <meta property="og:title" content="Mony Naldoni Fotografia" />
+    <meta
+      property="og:description"
+      content="Especialista em fotografia newborn pela escola de fotografia newborn, fotografia de família, gestantes e acompanhamento de bebês"
+    />
+    <meta property="og:site_name" content="Mony Naldoni Fotografia" />
+    <meta property="og:type" content="website" />
+    <meta
+      property="og:image"
+      content="https://monynaldoni.com/images/author-3.jpg"
+    />
+    <meta property="og:image:type" content="image/jpeg" />
+
+    <meta
+      property="description"
+      content="Especialista em fotografia newborn pela escola de fotografia newborn, fotografia de família, gestantes e acompanhamento de bebês"
+    />
+    <meta
+      itemprop="image"
+      content="https://monynaldoni.com/images/author-3.jpg"
+    />
+
+    <title>Mony Naldoni Fotografia</title>
+  </head>
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/index.tsx"></script>
+    <script type="text/javascript">
+      function blogspot(json) {
+        window.blogspot = json.feed.entry;
+      }
+    </script>
+    <script src="https://monynaldoni.blogspot.com/feeds/posts/summary?orderby=published&max-results=5&alt=json-in-script&callback=blogspot"></script>
+  </body>
+</html>

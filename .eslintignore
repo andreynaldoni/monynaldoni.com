@@ -1,0 +1,8 @@
+.firebase
+.husky
+build
+data-dev
+dev-dist
+functions
+node_modules
+public

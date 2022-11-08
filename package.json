@@ -1,0 +1,64 @@
+{
+  "name": "monynaldoni.com",
+  "homepage": "http://monynaldoni.com",
+  "author": "Andrey Naldoni <andreynaldoni@gmail.com>",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview",
+    "predeploy": "pnpm run build",
+    "deploy": "gh-pages -d build",
+    "format": "prettier --write \"src/**/*.{ts,tsx,css,json}\" --config ./.prettierrc",
+    "prepare": "husky install",
+    "emulator": "firebase emulators:start --import=./emulator --export-on-exit"
+  },
+  "lint-staged": {
+    "src/**/*.{js,jsx,ts,tsx,json,css,scss,md}": [
+      "prettier --write --config ./.prettierrc"
+    ]
+  },
+  "dependencies": {
+    "@emotion/react": "^11.10.5",
+    "@mantine/carousel": "^5.7.1",
+    "@mantine/core": "^5.7.1",
+    "@mantine/dates": "^5.7.1",
+    "@mantine/dropzone": "^5.7.1",
+    "@mantine/form": "^5.7.1",
+    "@mantine/hooks": "^5.7.1",
+    "@mantine/modals": "^5.7.1",
+    "@mantine/notifications": "^5.7.1",
+    "@mantine/nprogress": "^5.7.1",
+    "@mantine/prism": "^5.7.1",
+    "@mantine/rte": "^5.7.1",
+    "@mantine/spotlight": "^5.7.1",
+    "@tabler/icons": "^1.110.0",
+    "dayjs": "^1.11.6",
+    "embla-carousel-autoplay": "^7.0.4",
+    "embla-carousel-react": "^7.0.4",
+    "firebase": "^9.13.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.4.3"
+  },
+  "devDependencies": {
+    "@types/react": "^18.0.24",
+    "@types/react-dom": "^18.0.8",
+    "@typescript-eslint/eslint-plugin": "^5.42.0",
+    "@typescript-eslint/parser": "^5.42.0",
+    "@vitejs/plugin-react": "^2.2.0",
+    "eslint": "^8.27.0",
+    "eslint-config-prettier": "^8.5.0",
+    "eslint-config-react-app": "^7.0.1",
+    "eslint-plugin-prettier": "^4.2.1",
+    "gh-pages": "^4.0.0",
+    "husky": "^8.0.1",
+    "lint-staged": "^13.0.3",
+    "prettier": "^2.7.1",
+    "typescript": "^4.6.4",
+    "vite": "^3.2.3",
+    "vite-tsconfig-paths": "^3.5.2"
+  }
+}
