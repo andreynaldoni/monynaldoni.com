@@ -577,6 +577,82 @@
       }
     ]
   },
+  "familia": {
+    "name": "Família",
+    "albums": [
+      {
+        "slug": "joelma",
+        "name": "Joelma",
+        "cover": "/images/albums/familia/Joelma/1.jpg",
+        "photos": [
+          "/images/albums/familia/Joelma/1.jpg",
+          "/images/albums/familia/Joelma/2.jpg",
+          "/images/albums/familia/Joelma/3.jpg",
+          "/images/albums/familia/Joelma/4.jpg",
+          "/images/albums/familia/Joelma/5.jpg",
+          "/images/albums/familia/Joelma/6.jpg"
+        ]
+      },
+      {
+        "slug": "manu",
+        "name": "Manu",
+        "cover": "/images/albums/familia/Manu/1.jpg",
+        "photos": [
+          "/images/albums/familia/Manu/1.jpg",
+          "/images/albums/familia/Manu/2.jpg",
+          "/images/albums/familia/Manu/3.jpg",
+          "/images/albums/familia/Manu/4.jpg",
+          "/images/albums/familia/Manu/5.jpg",
+          "/images/albums/familia/Manu/6.jpg",
+          "/images/albums/familia/Manu/7.jpg",
+          "/images/albums/familia/Manu/8.jpg",
+          "/images/albums/familia/Manu/9.jpg",
+          "/images/albums/familia/Manu/10.jpg"
+        ]
+      },
+      {
+        "slug": "paula",
+        "name": "Paula",
+        "cover": "/images/albums/familia/Paula/1.jpg",
+        "photos": [
+          "/images/albums/familia/Paula/1.jpg",
+          "/images/albums/familia/Paula/2.jpg",
+          "/images/albums/familia/Paula/3.jpg",
+          "/images/albums/familia/Paula/4.jpg",
+          "/images/albums/familia/Paula/5.jpg",
+          "/images/albums/familia/Paula/6.jpg",
+          "/images/albums/familia/Paula/7.jpg",
+          "/images/albums/familia/Paula/8.jpg",
+          "/images/albums/familia/Paula/9.jpg"
+        ]
+      },
+      {
+        "slug": "sheyla",
+        "name": "Sheyla",
+        "cover": "/images/albums/familia/Sheyla/1.jpg",
+        "photos": [
+          "/images/albums/familia/Sheyla/1.jpg",
+          "/images/albums/familia/Sheyla/2.jpg",
+          "/images/albums/familia/Sheyla/3.jpg"
+        ]
+      },
+      {
+        "slug": "steffany",
+        "name": "Steffany",
+        "cover": "/images/albums/familia/Steffany/1.jpg",
+        "photos": [
+          "/images/albums/familia/Steffany/1.jpg",
+          "/images/albums/familia/Steffany/2.jpg",
+          "/images/albums/familia/Steffany/3.jpg",
+          "/images/albums/familia/Steffany/4.jpg",
+          "/images/albums/familia/Steffany/5.jpg",
+          "/images/albums/familia/Steffany/6.jpg",
+          "/images/albums/familia/Steffany/7.jpg",
+          "/images/albums/familia/Steffany/8.jpg"
+        ]
+      }
+    ]
+  },
   "smash-the-cake": {
     "name": "Smash the Cake",
     "albums": [

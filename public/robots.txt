@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://monynaldoni.com/sitemap.xml
+
+# Disallow admin/internal paths
+Disallow: /node_modules/
+Disallow: /.git/

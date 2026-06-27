@@ -1,8 +1,17 @@
-import { Link } from 'react-router-dom'
+import { Link } from "react-router-dom"
 
-export default function CategoryCard({ slug, name, cover }) {
+interface CategoryCardProps {
+  slug: string
+  name: string
+  cover: string
+}
+
+export default function CategoryCard({ slug, name, cover }: CategoryCardProps) {
   return (
-    <Link to={`/portfolio/${slug}`} className="group block relative overflow-hidden rounded-lg aspect-[4/3]">
+    <Link
+      to={`/portfolio/${slug}`}
+      className="group block relative overflow-hidden rounded-lg aspect-[4/3]"
+    >
       <img
         src={cover}
         alt={name}

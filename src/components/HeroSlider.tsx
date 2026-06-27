@@ -1,13 +1,28 @@
-import { Swiper, SwiperSlide } from 'swiper/react'
-import { Autoplay, Pagination, EffectFade } from 'swiper/modules'
-import 'swiper/css'
-import 'swiper/css/pagination'
-import 'swiper/css/effect-fade'
-import heroData from '../data/hero.json'
+import { Autoplay, EffectFade, Pagination } from "swiper/modules"
+import { Swiper, SwiperSlide } from "swiper/react"
+import "swiper/css"
+import "swiper/css/pagination"
+import "swiper/css/effect-fade"
+import albumsData from "../data/albums.json"
+
+interface AlbumData {
+  name: string
+  albums: Array<{
+    slug: string
+    name: string
+    cover: string
+  }>
+}
+
+// Pick first album from each category for hero
+const slides = Object.entries(albumsData as Record<string, AlbumData>)
+  .slice(0, 5)
+  .map(([, data]) => ({
+    image: data.albums[0]?.cover || "/images/placeholder.jpg",
+    title: data.name,
+  }))
 
 export default function HeroSlider() {
-  const slides = heroData.slides || []
-
   if (slides.length === 0) {
     return null
   }
@@ -19,12 +34,12 @@ export default function HeroSlider() {
         effect="fade"
         autoplay={{ delay: 5000, disableOnInteraction: false }}
         pagination={{ clickable: true }}
-        loop={true}
+        loop
         className="h-full"
       >
-        {slides.map((slide, index) => (
-          <SwiperSlide key={index} className="relative">
-            <div 
+        {slides.map((slide) => (
+          <SwiperSlide key={slide.title} className="relative">
+            <div
               className="absolute inset-0 bg-cover bg-center"
               style={{ backgroundImage: `url(${slide.image})` }}
             >
@@ -39,7 +54,7 @@ export default function HeroSlider() {
           </SwiperSlide>
         ))}
       </Swiper>
-      
+
       {/* Scroll indicator */}
       <div className="absolute bottom-8 left-1/2 -translate-x-1/2 animate-bounce">
         <div className="w-6 h-10 border-2 border-white/50 rounded-full flex justify-center pt-2">

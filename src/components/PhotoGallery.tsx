@@ -1,18 +1,22 @@
-import { useState } from 'react'
-import { X, ChevronLeft, ChevronRight } from 'lucide-react'
+import { ChevronLeft, ChevronRight, X } from "lucide-react"
+import { useState } from "react"
 
-export default function PhotoGallery({ photos }) {
-  const [selectedIndex, setSelectedIndex] = useState(null)
+interface PhotoGalleryProps {
+  photos: string[]
+}
 
-  const openLightbox = (index) => setSelectedIndex(index)
+export default function PhotoGallery({ photos }: PhotoGalleryProps) {
+  const [selectedIndex, setSelectedIndex] = useState<number | null>(null)
+
+  const openLightbox = (index: number) => setSelectedIndex(index)
   const closeLightbox = () => setSelectedIndex(null)
-  
+
   const goToPrevious = () => {
-    setSelectedIndex(prev => (prev > 0 ? prev - 1 : photos.length - 1))
+    setSelectedIndex((prev) => (prev !== null && prev > 0 ? prev - 1 : photos.length - 1))
   }
-  
+
   const goToNext = () => {
-    setSelectedIndex(prev => (prev < photos.length - 1 ? prev + 1 : 0))
+    setSelectedIndex((prev) => (prev !== null && prev < photos.length - 1 ? prev + 1 : 0))
   }
 
   return (

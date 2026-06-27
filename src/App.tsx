@@ -1,9 +1,8 @@
-import { BrowserRouter as Router, Routes, Route } from 'react-router-dom'
-import Layout from './components/Layout'
-import Home from './pages/Home'
-import Portfolio from './pages/Portfolio'
-import Category from './pages/Category'
-import Album from './pages/Album'
+import { Route, BrowserRouter as Router, Routes } from "react-router-dom"
+import Layout from "./components/Layout"
+import Album from "./pages/Album"
+import Category from "./pages/Category"
+import Home from "./pages/Home"
 
 function App() {
   return (
@@ -11,7 +10,6 @@ function App() {
       <Layout>
         <Routes>
           <Route path="/" element={<Home />} />
-          <Route path="/portfolio" element={<Portfolio />} />
           <Route path="/portfolio/:category" element={<Category />} />
           <Route path="/portfolio/:category/:album" element={<Album />} />
         </Routes>

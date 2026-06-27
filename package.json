@@ -1,29 +1,46 @@
 {
-  "name": "monynaldoni-react",
+  "name": "monynaldoni",
   "private": true,
-  "version": "0.0.0",
+  "version": "0.0.1",
   "type": "module",
+  "author": {
+    "name": "Andrey Naldoni",
+    "email": "andreynaldoni@gmail.com",
+    "url": "https://andreynaldoni.com"
+  },
   "scripts": {
     "dev": "vite",
-    "build": "vite build",
-    "lint": "oxlint",
+    "build": "npm run scan-albums && npm run generate-sitemap && tsc -b && vite build",
+    "lint": "biome check src/",
+    "lint:fix": "biome check --write src/",
+    "format": "biome format --write src/",
     "preview": "vite preview",
-    "scan-albums": "node scripts/scan-albums.js"
+    "scan-albums": "node scripts/scan-albums.js",
+    "generate-sitemap": "node scripts/generate-sitemap.js"
   },
   "dependencies": {
+    "clsx": "^2.1.1",
     "lucide-react": "^1.21.0",
     "react": "^19.2.7",
     "react-dom": "^19.2.7",
+    "react-helmet-async": "^3.0.0",
     "react-router-dom": "^7.18.0",
-    "swiper": "^14.0.0"
+    "swiper": "^14.0.0",
+    "tailwind-merge": "^3.6.0"
   },
   "devDependencies": {
+    "@biomejs/biome": "^2.5.1",
     "@tailwindcss/vite": "^4.3.1",
     "@types/react": "^19.2.17",
     "@types/react-dom": "^19.2.3",
     "@vitejs/plugin-react": "^6.0.2",
-    "oxlint": "^1.69.0",
+    "lefthook": "^2.1.9",
     "tailwindcss": "^4.3.1",
+    "typescript": "^6.0.3",
     "vite": "^8.1.0"
+  },
+  "allowScripts": {
+    "fsevents@2.3.3": true,
+    "lefthook@2.1.9": true
   }
 }

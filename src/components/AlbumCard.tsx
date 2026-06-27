@@ -1,8 +1,18 @@
-import { Link } from 'react-router-dom'
+import { Link } from "react-router-dom"
 
-export default function AlbumCard({ category, slug, name, cover }) {
+interface AlbumCardProps {
+  category: string
+  slug: string
+  name: string
+  cover: string
+}
+
+export default function AlbumCard({ category, slug, name, cover }: AlbumCardProps) {
   return (
-    <Link to={`/portfolio/${category}/${slug}`} className="group block relative overflow-hidden rounded-lg aspect-[3/4]">
+    <Link
+      to={`/portfolio/${category}/${slug}`}
+      className="group block relative overflow-hidden rounded-lg aspect-[3/4]"
+    >
       <img
         src={cover}
         alt={name}

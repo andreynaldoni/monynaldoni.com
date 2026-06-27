@@ -3,8 +3,8 @@
 @theme {
   --color-primary: #ccb78f;
   --color-secondary: #fffb37;
-  --font-heading: 'Montserrat', sans-serif;
-  --font-body: 'Poppins', sans-serif;
+  --font-heading: "Montserrat", sans-serif;
+  --font-body: "Poppins", sans-serif;
 }
 
 body {
@@ -13,6 +13,11 @@ body {
   padding: 0;
 }
 
-h1, h2, h3, h4, h5, h6 {
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
   font-family: var(--font-heading);
 }
