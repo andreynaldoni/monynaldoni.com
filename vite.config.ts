@@ -8,6 +8,5 @@ export default defineConfig({
   base: "/", // Custom domain: monynaldoni.com
   server: {
     port: 3000,
-    open: true,
   },
 })
