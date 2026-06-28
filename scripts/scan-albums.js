@@ -1,6 +1,6 @@
-import fs from "fs"
-import path from "path"
-import { fileURLToPath } from "url"
+import fs from "node:fs"
+import path from "node:path"
+import { fileURLToPath } from "node:url"
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url))
 const albumsDir = path.join(__dirname, "../public/images/albums")
@@ -43,9 +43,9 @@ function scanAlbums() {
         .filter((file) => /\.(jpg|jpeg|png|webp)$/i.test(file))
         .sort((a, b) => {
           // Sort by number if possible, otherwise alphabetically
-          const numA = parseInt(a)
-          const numB = parseInt(b)
-          if (!isNaN(numA) && !isNaN(numB)) {
+          const numA = parseInt(a, 10)
+          const numB = parseInt(b, 10)
+          if (!Number.isNaN(numA) && !Number.isNaN(numB)) {
             return numA - numB
           }
           return a.localeCompare(b)
@@ -126,7 +126,7 @@ if (!fs.existsSync(heroPath)) {
 // Log summary
 let totalAlbums = 0
 let totalPhotos = 0
-for (const [category, data] of Object.entries(albumsData)) {
+for (const [_category, data] of Object.entries(albumsData)) {
   const albumCount = data.albums.length
   const photoCount = data.albums.reduce((sum, album) => sum + album.photos.length, 0)
   totalAlbums += albumCount
