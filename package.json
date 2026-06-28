@@ -10,7 +10,7 @@
   },
   "scripts": {
     "dev": "vite",
-    "build": "npm run scan-albums && npm run generate-sitemap && tsc -b && vite build",
+    "build": "tsc -b && vite build",
     "lint": "biome check src/",
     "lint:fix": "biome check --write src/",
     "format": "biome format --write src/",

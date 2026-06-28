@@ -2,6 +2,6 @@ pre-commit:
   parallel: true
   commands:
     lint:
-      glob: "*.{js,ts,jsx,tsx,json,css}"
+      glob: "*.{js,ts,jsx,tsx,css}"
       run: npx biome check --write {staged_files}
       stage_fixed: true
