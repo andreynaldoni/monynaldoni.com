@@ -3,24 +3,13 @@ import { Swiper, SwiperSlide } from "swiper/react"
 import "swiper/css"
 import "swiper/css/pagination"
 import "swiper/css/effect-fade"
-import albumsData from "../data/albums.json"
-
-interface AlbumData {
-  name: string
-  albums: Array<{
-    slug: string
-    name: string
-    cover: string
-  }>
-}
+import heroData from "../data/hero.json"
 
 // Pick first album from each category for hero
-const slides = Object.entries(albumsData as Record<string, AlbumData>)
-  .slice(0, 5)
-  .map(([, data]) => ({
-    image: data.albums[0]?.cover || "/images/placeholder.jpg",
-    title: data.name,
-  }))
+const slides = heroData.slides.map((slide) => ({
+  image: slide.image,
+  title: slide.title,
+}))
 
 export default function HeroSlider() {
   if (slides.length === 0) {

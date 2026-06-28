@@ -1,24 +1,29 @@
-import { Mail, MapPin, Phone } from "lucide-react"
+import { MapPin } from "lucide-react"
 import CategoryCard from "../components/CategoryCard"
 import HeroSlider from "../components/HeroSlider"
 import InstagramEmbed from "../components/InstagramEmbed"
-import albumsData from "../data/albums.json"
+// import albumsData from "../data/albums.json"
+import categoriesData from "../data/categories.json"
 
-interface AlbumData {
-  name: string
-  albums: Array<{
-    slug: string
-    name: string
-    cover: string
-    photos: string[]
-  }>
-}
+// interface AlbumData {
+//   name: string
+//   albums: Array<{
+//     slug: string
+//     name: string
+//     cover: string
+//     photos: string[]
+//   }>
+// }
 
-const categories = Object.entries(albumsData as Record<string, AlbumData>).map(([slug, data]) => ({
-  slug,
-  name: data.name,
-  cover: data.albums[0]?.cover || "/images/placeholder.jpg",
-}))
+// const categories = Object.entries(albumsData as Record<string, AlbumData>).map(
+//   ([slug, data]) => ({
+//     slug,
+//     name: data.name,
+//     cover: data.albums[0]?.cover || "/images/placeholder.jpg",
+//   }),
+// )
+
+const categories = categoriesData.slides
 
 const InstagramIcon = () => (
   <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" className="w-6 h-6">
@@ -113,7 +118,7 @@ export default function Home() {
               href="https://instagram.com/monynaldoni"
               target="_blank"
               rel="noopener noreferrer"
-              className="inline-block bg-gradient-to-r from-purple-500 via-pink-500 to-orange-400 text-white px-8 py-3 rounded-full font-medium hover:opacity-90 transition-opacity"
+              className="inline-block bg-linear-to-r from-purple-500 via-pink-500 to-orange-400 text-white px-8 py-3 rounded-full font-medium hover:opacity-90 transition-opacity"
             >
               Seguir @monynaldoni
             </a>
@@ -152,7 +157,7 @@ export default function Home() {
                     </div>
                   </a>
                 </li>
-                <li>
+                {/* <li>
                   <a
                     href="tel:+5513974020581"
                     className="flex items-center gap-4 p-4 bg-white rounded-lg shadow-sm hover:shadow-md transition-shadow group"
@@ -167,8 +172,8 @@ export default function Home() {
                       <p className="text-sm text-stone-500">+55 (13) 9 7402-0581</p>
                     </div>
                   </a>
-                </li>
-                <li>
+                </li> */}
+                {/* <li>
                   <a
                     href="mailto:monyza.mk@gmail.com"
                     className="flex items-center gap-4 p-4 bg-white rounded-lg shadow-sm hover:shadow-md transition-shadow group"
@@ -180,10 +185,12 @@ export default function Home() {
                       <p className="font-medium text-stone-800 group-hover:text-primary transition-colors">
                         E-mail
                       </p>
-                      <p className="text-sm text-stone-500">monyza.mk@gmail.com</p>
+                      <p className="text-sm text-stone-500">
+                        monyza.mk@gmail.com
+                      </p>
                     </div>
                   </a>
-                </li>
+                </li> */}
                 <li>
                   <a
                     href="https://maps.google.com/?q=Av.+Presidente+Kennedy,+4751+-+Vila+Tupi,+Praia+Grande"
@@ -208,7 +215,7 @@ export default function Home() {
             </div>
 
             {/* Google Maps */}
-            <div className="rounded-lg overflow-hidden shadow-lg h-[400px]">
+            <div className="rounded-lg overflow-hidden shadow-lg h-100">
               <iframe
                 src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3644.687128118282!2d-46.427647685694986!3d-24.00682298446359!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce1f50ff2dbe6f%3A0x873c21a3597e94c8!2sMony+Naldoni+Fotografia!5e0!3m2!1spt-BR!2sbr!4v1559761391596!5m2!1spt-BR!2sbr"
                 width="100%"

@@ -3,62 +3,35 @@
     "name": "Newborn",
     "albums": [
       {
-        "slug": "alice---newborn",
-        "name": "Alice   Newborn",
-        "cover": "/images/albums/newborn/Alice%20-%20newborn/1.jpg",
+        "slug": "antonella",
+        "name": "Antonella",
+        "cover": "/images/albums/newborn/Antonella/IMG_1864.JPG",
         "photos": [
-          "/images/albums/newborn/Alice%20-%20newborn/1.jpg",
-          "/images/albums/newborn/Alice%20-%20newborn/2.jpg",
-          "/images/albums/newborn/Alice%20-%20newborn/3.jpg",
-          "/images/albums/newborn/Alice%20-%20newborn/4.jpg",
-          "/images/albums/newborn/Alice%20-%20newborn/5.jpg",
-          "/images/albums/newborn/Alice%20-%20newborn/6.jpg",
-          "/images/albums/newborn/Alice%20-%20newborn/7.jpg"
+          "/images/albums/newborn/Antonella/IMG_1864.JPG",
+          "/images/albums/newborn/Antonella/IMG_1865.JPG",
+          "/images/albums/newborn/Antonella/IMG_1866.JPG",
+          "/images/albums/newborn/Antonella/IMG_1867.JPG",
+          "/images/albums/newborn/Antonella/IMG_1868.JPG",
+          "/images/albums/newborn/Antonella/IMG_1869.JPG",
+          "/images/albums/newborn/Antonella/IMG_1870.JPG",
+          "/images/albums/newborn/Antonella/IMG_1871.JPG",
+          "/images/albums/newborn/Antonella/IMG_1872.JPG"
         ]
       },
       {
-        "slug": "bernardo---newborn",
-        "name": "Bernardo   Newborn",
-        "cover": "/images/albums/newborn/Bernardo%20-%20newborn/1.jpg",
+        "slug": "bernardo",
+        "name": "Bernardo",
+        "cover": "/images/albums/newborn/Bernardo/1.jpg",
         "photos": [
-          "/images/albums/newborn/Bernardo%20-%20newborn/1.jpg",
-          "/images/albums/newborn/Bernardo%20-%20newborn/2.jpg",
-          "/images/albums/newborn/Bernardo%20-%20newborn/3.jpg",
-          "/images/albums/newborn/Bernardo%20-%20newborn/4.jpg",
-          "/images/albums/newborn/Bernardo%20-%20newborn/5.jpg",
-          "/images/albums/newborn/Bernardo%20-%20newborn/6.jpg",
-          "/images/albums/newborn/Bernardo%20-%20newborn/7.jpg",
-          "/images/albums/newborn/Bernardo%20-%20newborn/8.jpg",
-          "/images/albums/newborn/Bernardo%20-%20newborn/9.jpg"
-        ]
-      },
-      {
-        "slug": "claire",
-        "name": "Claire",
-        "cover": "/images/albums/newborn/Claire/CAPA%20-%20Internet%20Claire%20(7).jpg",
-        "photos": [
-          "/images/albums/newborn/Claire/CAPA%20-%20Internet%20Claire%20(7).jpg",
-          "/images/albums/newborn/Claire/Internet%20Claire%20(1).jpg",
-          "/images/albums/newborn/Claire/Internet%20Claire%20(11).jpg",
-          "/images/albums/newborn/Claire/Internet%20Claire%20(19).jpg",
-          "/images/albums/newborn/Claire/Internet%20Claire%20(5).jpg",
-          "/images/albums/newborn/Claire/Internet%20Claire%20(8).jpg",
-          "/images/albums/newborn/Claire/Internet.jpg"
-        ]
-      },
-      {
-        "slug": "elias",
-        "name": "Elias",
-        "cover": "/images/albums/newborn/Elias/CAPA%20-%20Internet%20Newborn%20Elias%20(1).jpg",
-        "photos": [
-          "/images/albums/newborn/Elias/CAPA%20-%20Internet%20Newborn%20Elias%20(1).jpg",
-          "/images/albums/newborn/Elias/IMG_2133.jpg",
-          "/images/albums/newborn/Elias/Internet%20Newborn%20Elias%20(15).jpg",
-          "/images/albums/newborn/Elias/Internet%20Newborn%20Elias%20(16).jpg",
-          "/images/albums/newborn/Elias/Internet%20Newborn%20Elias%20(19).jpg",
-          "/images/albums/newborn/Elias/Internet%20Newborn%20Elias%20(3).jpg",
-          "/images/albums/newborn/Elias/Internet%20Newborn%20Elias%20(4).jpg",
-          "/images/albums/newborn/Elias/Internet%20Newborn%20Elias%20(9).jpg"
+          "/images/albums/newborn/Bernardo/1.jpg",
+          "/images/albums/newborn/Bernardo/2.jpg",
+          "/images/albums/newborn/Bernardo/3.jpg",
+          "/images/albums/newborn/Bernardo/4.jpg",
+          "/images/albums/newborn/Bernardo/5.jpg",
+          "/images/albums/newborn/Bernardo/6.jpg",
+          "/images/albums/newborn/Bernardo/7.jpg",
+          "/images/albums/newborn/Bernardo/8.jpg",
+          "/images/albums/newborn/Bernardo/9.jpg"
         ]
       },
       {
@@ -75,59 +48,109 @@
         ]
       },
       {
-        "slug": "lev---newborn",
-        "name": "Leví   Newborn",
-        "cover": "/images/albums/newborn/Lev%C3%AD%20-%20newborn/1.jpg",
+        "slug": "jose-gael",
+        "name": "José Gael",
+        "cover": "/images/albums/newborn/Jose%CC%81%20Gael/IMG_1873.JPG",
         "photos": [
-          "/images/albums/newborn/Lev%C3%AD%20-%20newborn/1.jpg",
-          "/images/albums/newborn/Lev%C3%AD%20-%20newborn/2.jpg",
-          "/images/albums/newborn/Lev%C3%AD%20-%20newborn/3.jpg",
-          "/images/albums/newborn/Lev%C3%AD%20-%20newborn/4.jpg",
-          "/images/albums/newborn/Lev%C3%AD%20-%20newborn/5.jpg",
-          "/images/albums/newborn/Lev%C3%AD%20-%20newborn/6.jpg",
-          "/images/albums/newborn/Lev%C3%AD%20-%20newborn/7.jpg"
+          "/images/albums/newborn/Jose%CC%81%20Gael/IMG_1873.JPG",
+          "/images/albums/newborn/Jose%CC%81%20Gael/IMG_1874.JPG",
+          "/images/albums/newborn/Jose%CC%81%20Gael/IMG_1875.JPG",
+          "/images/albums/newborn/Jose%CC%81%20Gael/IMG_1876.JPG",
+          "/images/albums/newborn/Jose%CC%81%20Gael/IMG_1877.JPG",
+          "/images/albums/newborn/Jose%CC%81%20Gael/IMG_1878.JPG",
+          "/images/albums/newborn/Jose%CC%81%20Gael/IMG_1879.JPG",
+          "/images/albums/newborn/Jose%CC%81%20Gael/IMG_1880.JPG",
+          "/images/albums/newborn/Jose%CC%81%20Gael/IMG_1881.JPG",
+          "/images/albums/newborn/Jose%CC%81%20Gael/IMG_1882.JPG",
+          "/images/albums/newborn/Jose%CC%81%20Gael/IMG_1883.JPG"
         ]
       },
       {
-        "slug": "luisa---newborn",
-        "name": "Luisa   Newborn",
-        "cover": "/images/albums/newborn/Luisa%20-%20newborn/1.jpg",
+        "slug": "levi",
+        "name": "Leví",
+        "cover": "/images/albums/newborn/Levi%CC%81/1.jpg",
         "photos": [
-          "/images/albums/newborn/Luisa%20-%20newborn/1.jpg",
-          "/images/albums/newborn/Luisa%20-%20newborn/2.jpg",
-          "/images/albums/newborn/Luisa%20-%20newborn/3.jpg",
-          "/images/albums/newborn/Luisa%20-%20newborn/4.jpg",
-          "/images/albums/newborn/Luisa%20-%20newborn/5.jpg",
-          "/images/albums/newborn/Luisa%20-%20newborn/6.jpg"
+          "/images/albums/newborn/Levi%CC%81/1.jpg",
+          "/images/albums/newborn/Levi%CC%81/2.jpg",
+          "/images/albums/newborn/Levi%CC%81/3.jpg",
+          "/images/albums/newborn/Levi%CC%81/4.jpg",
+          "/images/albums/newborn/Levi%CC%81/5.jpg",
+          "/images/albums/newborn/Levi%CC%81/6.jpg",
+          "/images/albums/newborn/Levi%CC%81/7.jpg"
         ]
       },
       {
-        "slug": "miguel---newborn",
-        "name": "Miguel   Newborn",
-        "cover": "/images/albums/newborn/Miguel%20-%20newborn/1.jpg",
+        "slug": "luisa",
+        "name": "Luisa",
+        "cover": "/images/albums/newborn/Luisa/1.jpg",
         "photos": [
-          "/images/albums/newborn/Miguel%20-%20newborn/1.jpg",
-          "/images/albums/newborn/Miguel%20-%20newborn/2.jpg",
-          "/images/albums/newborn/Miguel%20-%20newborn/3.jpg",
-          "/images/albums/newborn/Miguel%20-%20newborn/4.jpg",
-          "/images/albums/newborn/Miguel%20-%20newborn/5.jpg",
-          "/images/albums/newborn/Miguel%20-%20newborn/6.jpg"
+          "/images/albums/newborn/Luisa/1.jpg",
+          "/images/albums/newborn/Luisa/2.jpg",
+          "/images/albums/newborn/Luisa/3.jpg",
+          "/images/albums/newborn/Luisa/4.jpg",
+          "/images/albums/newborn/Luisa/5.jpg",
+          "/images/albums/newborn/Luisa/6.jpg"
         ]
       },
       {
-        "slug": "rafael---newborn",
-        "name": "Rafael   Newborn",
-        "cover": "/images/albums/newborn/Rafael%20-%20newborn/1.jpg",
+        "slug": "miguel",
+        "name": "Miguel",
+        "cover": "/images/albums/newborn/Miguel/1.jpg",
         "photos": [
-          "/images/albums/newborn/Rafael%20-%20newborn/1.jpg",
-          "/images/albums/newborn/Rafael%20-%20newborn/2.jpg",
-          "/images/albums/newborn/Rafael%20-%20newborn/3.jpg",
-          "/images/albums/newborn/Rafael%20-%20newborn/4.jpg",
-          "/images/albums/newborn/Rafael%20-%20newborn/5.jpg",
-          "/images/albums/newborn/Rafael%20-%20newborn/6.jpg",
-          "/images/albums/newborn/Rafael%20-%20newborn/7.jpg",
-          "/images/albums/newborn/Rafael%20-%20newborn/8.jpg",
-          "/images/albums/newborn/Rafael%20-%20newborn/9.jpg"
+          "/images/albums/newborn/Miguel/1.jpg",
+          "/images/albums/newborn/Miguel/2.jpg",
+          "/images/albums/newborn/Miguel/3.jpg",
+          "/images/albums/newborn/Miguel/4.jpg",
+          "/images/albums/newborn/Miguel/5.jpg",
+          "/images/albums/newborn/Miguel/6.jpg"
+        ]
+      },
+      {
+        "slug": "noah",
+        "name": "Noah",
+        "cover": "/images/albums/newborn/Noah/IMG_1857.JPG",
+        "photos": [
+          "/images/albums/newborn/Noah/IMG_1857.JPG",
+          "/images/albums/newborn/Noah/IMG_1858.JPG",
+          "/images/albums/newborn/Noah/IMG_1859.JPG",
+          "/images/albums/newborn/Noah/IMG_1860.JPG",
+          "/images/albums/newborn/Noah/IMG_1861.JPG",
+          "/images/albums/newborn/Noah/IMG_1862.JPG",
+          "/images/albums/newborn/Noah/IMG_1863.JPG"
+        ]
+      },
+      {
+        "slug": "rafael",
+        "name": "Rafael",
+        "cover": "/images/albums/newborn/Rafael/1.jpg",
+        "photos": [
+          "/images/albums/newborn/Rafael/1.jpg",
+          "/images/albums/newborn/Rafael/2.jpg",
+          "/images/albums/newborn/Rafael/3.jpg",
+          "/images/albums/newborn/Rafael/4.jpg",
+          "/images/albums/newborn/Rafael/5.jpg",
+          "/images/albums/newborn/Rafael/6.jpg",
+          "/images/albums/newborn/Rafael/7.jpg",
+          "/images/albums/newborn/Rafael/8.jpg",
+          "/images/albums/newborn/Rafael/9.jpg"
+        ]
+      },
+      {
+        "slug": "ravi",
+        "name": "Ravi",
+        "cover": "/images/albums/newborn/Ravi/IMG_1845.JPG",
+        "photos": [
+          "/images/albums/newborn/Ravi/IMG_1845.JPG",
+          "/images/albums/newborn/Ravi/IMG_1846.JPG",
+          "/images/albums/newborn/Ravi/IMG_1848.JPG",
+          "/images/albums/newborn/Ravi/IMG_1849.JPG",
+          "/images/albums/newborn/Ravi/IMG_1850.JPG",
+          "/images/albums/newborn/Ravi/IMG_1851.JPG",
+          "/images/albums/newborn/Ravi/IMG_1852.JPG",
+          "/images/albums/newborn/Ravi/IMG_1853.JPG",
+          "/images/albums/newborn/Ravi/IMG_1854.JPG",
+          "/images/albums/newborn/Ravi/IMG_1855.JPG",
+          "/images/albums/newborn/Ravi/IMG_1856.JPG"
         ]
       },
       {
@@ -151,31 +174,19 @@
     "name": "Gestante",
     "albums": [
       {
-        "slug": "aline---gestante-externo",
-        "name": "Aline   Gestante Externo",
-        "cover": "/images/albums/gestante/Aline%20-%20gestante%20externo/1.jpg",
+        "slug": "aline",
+        "name": "Aline",
+        "cover": "/images/albums/gestante/Aline/1.jpg",
         "photos": [
-          "/images/albums/gestante/Aline%20-%20gestante%20externo/1.jpg",
-          "/images/albums/gestante/Aline%20-%20gestante%20externo/2.jpg",
-          "/images/albums/gestante/Aline%20-%20gestante%20externo/3.jpg",
-          "/images/albums/gestante/Aline%20-%20gestante%20externo/4.jpg",
-          "/images/albums/gestante/Aline%20-%20gestante%20externo/5.jpg",
-          "/images/albums/gestante/Aline%20-%20gestante%20externo/6.jpg",
-          "/images/albums/gestante/Aline%20-%20gestante%20externo/7.jpg",
-          "/images/albums/gestante/Aline%20-%20gestante%20externo/8.jpg",
-          "/images/albums/gestante/Aline%20-%20gestante%20externo/9.jpg"
-        ]
-      },
-      {
-        "slug": "ana",
-        "name": "Ana",
-        "cover": "/images/albums/gestante/Ana/1.jpg",
-        "photos": [
-          "/images/albums/gestante/Ana/1.jpg",
-          "/images/albums/gestante/Ana/2.jpg",
-          "/images/albums/gestante/Ana/3.jpg",
-          "/images/albums/gestante/Ana/4.jpg",
-          "/images/albums/gestante/Ana/5.jpg"
+          "/images/albums/gestante/Aline/1.jpg",
+          "/images/albums/gestante/Aline/2.jpg",
+          "/images/albums/gestante/Aline/3.jpg",
+          "/images/albums/gestante/Aline/4.jpg",
+          "/images/albums/gestante/Aline/5.jpg",
+          "/images/albums/gestante/Aline/6.jpg",
+          "/images/albums/gestante/Aline/7.jpg",
+          "/images/albums/gestante/Aline/8.jpg",
+          "/images/albums/gestante/Aline/9.jpg"
         ]
       },
       {
@@ -195,98 +206,130 @@
         ]
       },
       {
-        "slug": "carla",
-        "name": "Carla",
-        "cover": "/images/albums/gestante/Carla/1.jpg",
+        "slug": "deborah",
+        "name": "Deborah",
+        "cover": "/images/albums/gestante/Deborah/1.jpg",
         "photos": [
-          "/images/albums/gestante/Carla/1.jpg",
-          "/images/albums/gestante/Carla/2.jpg",
-          "/images/albums/gestante/Carla/3.jpg",
-          "/images/albums/gestante/Carla/4.jpg",
-          "/images/albums/gestante/Carla/5.jpg",
-          "/images/albums/gestante/Carla/6.jpg"
+          "/images/albums/gestante/Deborah/1.jpg",
+          "/images/albums/gestante/Deborah/2.jpg",
+          "/images/albums/gestante/Deborah/3.jpg",
+          "/images/albums/gestante/Deborah/4.jpg",
+          "/images/albums/gestante/Deborah/5.jpg",
+          "/images/albums/gestante/Deborah/6.jpg",
+          "/images/albums/gestante/Deborah/7.jpg",
+          "/images/albums/gestante/Deborah/8.jpg",
+          "/images/albums/gestante/Deborah/9.jpg"
         ]
       },
       {
-        "slug": "dariana---gestante-estdio",
-        "name": "Dariana   Gestante Estúdio",
-        "cover": "/images/albums/gestante/Dariana%20-%20gestante%20est%C3%BAdio/1.jpg",
+        "slug": "francyne",
+        "name": "Francyne",
+        "cover": "/images/albums/gestante/Francyne/IMG_1770.JPG",
         "photos": [
-          "/images/albums/gestante/Dariana%20-%20gestante%20est%C3%BAdio/1.jpg",
-          "/images/albums/gestante/Dariana%20-%20gestante%20est%C3%BAdio/2.jpg",
-          "/images/albums/gestante/Dariana%20-%20gestante%20est%C3%BAdio/3.jpg",
-          "/images/albums/gestante/Dariana%20-%20gestante%20est%C3%BAdio/4.jpg",
-          "/images/albums/gestante/Dariana%20-%20gestante%20est%C3%BAdio/5.jpg",
-          "/images/albums/gestante/Dariana%20-%20gestante%20est%C3%BAdio/6.jpg"
+          "/images/albums/gestante/Francyne/IMG_1770.JPG",
+          "/images/albums/gestante/Francyne/IMG_1771.JPG",
+          "/images/albums/gestante/Francyne/IMG_1772.JPG",
+          "/images/albums/gestante/Francyne/IMG_1773.JPG",
+          "/images/albums/gestante/Francyne/IMG_1774.JPG",
+          "/images/albums/gestante/Francyne/IMG_1775.JPG",
+          "/images/albums/gestante/Francyne/IMG_1776.JPG"
         ]
       },
       {
-        "slug": "deborah---gestante",
-        "name": "Deborah   Gestante",
-        "cover": "/images/albums/gestante/Deborah%20-%20gestante/1.jpg",
+        "slug": "geovania",
+        "name": "Geovania",
+        "cover": "/images/albums/gestante/Geovania/1.jpg",
         "photos": [
-          "/images/albums/gestante/Deborah%20-%20gestante/1.jpg",
-          "/images/albums/gestante/Deborah%20-%20gestante/2.jpg",
-          "/images/albums/gestante/Deborah%20-%20gestante/3.jpg",
-          "/images/albums/gestante/Deborah%20-%20gestante/4.jpg",
-          "/images/albums/gestante/Deborah%20-%20gestante/5.jpg",
-          "/images/albums/gestante/Deborah%20-%20gestante/6.jpg",
-          "/images/albums/gestante/Deborah%20-%20gestante/7.jpg",
-          "/images/albums/gestante/Deborah%20-%20gestante/8.jpg",
-          "/images/albums/gestante/Deborah%20-%20gestante/9.jpg"
+          "/images/albums/gestante/Geovania/1.jpg",
+          "/images/albums/gestante/Geovania/2.jpg",
+          "/images/albums/gestante/Geovania/3.jpg",
+          "/images/albums/gestante/Geovania/4.jpg",
+          "/images/albums/gestante/Geovania/5.jpg",
+          "/images/albums/gestante/Geovania/6.jpg",
+          "/images/albums/gestante/Geovania/7.jpg",
+          "/images/albums/gestante/Geovania/8.jpg",
+          "/images/albums/gestante/Geovania/9.jpg"
         ]
       },
       {
-        "slug": "geovania---gestante-externo-praia",
-        "name": "Geovania   Gestante Externo Praia",
-        "cover": "/images/albums/gestante/Geovania%20-%20gestante%20externo%20praia/1.jpg",
+        "slug": "giovana",
+        "name": "Giovana",
+        "cover": "/images/albums/gestante/Giovana/IMG_1777.JPG",
         "photos": [
-          "/images/albums/gestante/Geovania%20-%20gestante%20externo%20praia/1.jpg",
-          "/images/albums/gestante/Geovania%20-%20gestante%20externo%20praia/2.jpg",
-          "/images/albums/gestante/Geovania%20-%20gestante%20externo%20praia/3.jpg",
-          "/images/albums/gestante/Geovania%20-%20gestante%20externo%20praia/4.jpg",
-          "/images/albums/gestante/Geovania%20-%20gestante%20externo%20praia/5.jpg",
-          "/images/albums/gestante/Geovania%20-%20gestante%20externo%20praia/6.jpg",
-          "/images/albums/gestante/Geovania%20-%20gestante%20externo%20praia/7.jpg",
-          "/images/albums/gestante/Geovania%20-%20gestante%20externo%20praia/8.jpg",
-          "/images/albums/gestante/Geovania%20-%20gestante%20externo%20praia/9.jpg"
+          "/images/albums/gestante/Giovana/IMG_1777.JPG",
+          "/images/albums/gestante/Giovana/IMG_1778.JPG",
+          "/images/albums/gestante/Giovana/IMG_1779.JPG",
+          "/images/albums/gestante/Giovana/IMG_1780.JPG",
+          "/images/albums/gestante/Giovana/IMG_1781.JPG",
+          "/images/albums/gestante/Giovana/IMG_1782.JPG",
+          "/images/albums/gestante/Giovana/IMG_1783.JPG",
+          "/images/albums/gestante/Giovana/IMG_1784.JPG",
+          "/images/albums/gestante/Giovana/IMG_1785.JPG"
         ]
       },
       {
-        "slug": "isa",
-        "name": "Isa",
-        "cover": "/images/albums/gestante/Isa/1.jpg",
+        "slug": "giulia",
+        "name": "Giulia",
+        "cover": "/images/albums/gestante/Giulia/IMG_1786.JPG",
         "photos": [
-          "/images/albums/gestante/Isa/1.jpg",
-          "/images/albums/gestante/Isa/2.jpg",
-          "/images/albums/gestante/Isa/3.jpg",
-          "/images/albums/gestante/Isa/4.jpg"
+          "/images/albums/gestante/Giulia/IMG_1786.JPG",
+          "/images/albums/gestante/Giulia/IMG_1787.JPG",
+          "/images/albums/gestante/Giulia/IMG_1788.JPG",
+          "/images/albums/gestante/Giulia/IMG_1789.JPG",
+          "/images/albums/gestante/Giulia/IMG_1790.JPG",
+          "/images/albums/gestante/Giulia/IMG_1791.JPG",
+          "/images/albums/gestante/Giulia/IMG_1792.JPG"
         ]
       },
       {
-        "slug": "naycelle---gestante-estdio",
-        "name": "Naycelle   Gestante Estúdio",
-        "cover": "/images/albums/gestante/Naycelle%20-%20gestante%20est%C3%BAdio/1.jpg",
+        "slug": "paola",
+        "name": "Paola",
+        "cover": "/images/albums/gestante/Paola/IMG_1793.JPG",
         "photos": [
-          "/images/albums/gestante/Naycelle%20-%20gestante%20est%C3%BAdio/1.jpg",
-          "/images/albums/gestante/Naycelle%20-%20gestante%20est%C3%BAdio/2.jpg",
-          "/images/albums/gestante/Naycelle%20-%20gestante%20est%C3%BAdio/3.jpg",
-          "/images/albums/gestante/Naycelle%20-%20gestante%20est%C3%BAdio/4.jpg",
-          "/images/albums/gestante/Naycelle%20-%20gestante%20est%C3%BAdio/5.jpg",
-          "/images/albums/gestante/Naycelle%20-%20gestante%20est%C3%BAdio/6.jpg"
+          "/images/albums/gestante/Paola/IMG_1793.JPG",
+          "/images/albums/gestante/Paola/IMG_1794.JPG",
+          "/images/albums/gestante/Paola/IMG_1796.JPG",
+          "/images/albums/gestante/Paola/IMG_1797.JPG",
+          "/images/albums/gestante/Paola/IMG_1798.JPG",
+          "/images/albums/gestante/Paola/IMG_1799.JPG",
+          "/images/albums/gestante/Paola/IMG_1800.JPG",
+          "/images/albums/gestante/Paola/IMG_1801.JPG",
+          "/images/albums/gestante/Paola/IMG_1802.JPG",
+          "/images/albums/gestante/Paola/IMG_1803.JPG",
+          "/images/albums/gestante/Paola/IMG_1804.JPG"
         ]
       },
       {
-        "slug": "rebeca---gestante-estdio",
-        "name": "Rebeca   Gestante Estúdio",
-        "cover": "/images/albums/gestante/Rebeca%20-%20gestante%20est%C3%BAdio/1.jpg",
+        "slug": "raissa",
+        "name": "Raissa",
+        "cover": "/images/albums/gestante/Raissa/IMG_1805.JPG",
         "photos": [
-          "/images/albums/gestante/Rebeca%20-%20gestante%20est%C3%BAdio/1.jpg",
-          "/images/albums/gestante/Rebeca%20-%20gestante%20est%C3%BAdio/2.jpg",
-          "/images/albums/gestante/Rebeca%20-%20gestante%20est%C3%BAdio/3.jpg",
-          "/images/albums/gestante/Rebeca%20-%20gestante%20est%C3%BAdio/4.jpg",
-          "/images/albums/gestante/Rebeca%20-%20gestante%20est%C3%BAdio/5.jpg",
-          "/images/albums/gestante/Rebeca%20-%20gestante%20est%C3%BAdio/6.jpg"
+          "/images/albums/gestante/Raissa/IMG_1805.JPG",
+          "/images/albums/gestante/Raissa/IMG_1806.JPG",
+          "/images/albums/gestante/Raissa/IMG_1807.JPG",
+          "/images/albums/gestante/Raissa/IMG_1808.JPG",
+          "/images/albums/gestante/Raissa/IMG_1809.JPG",
+          "/images/albums/gestante/Raissa/IMG_1810.JPG",
+          "/images/albums/gestante/Raissa/IMG_1811.JPG",
+          "/images/albums/gestante/Raissa/IMG_1812.JPG",
+          "/images/albums/gestante/Raissa/IMG_1814.JPG",
+          "/images/albums/gestante/Raissa/IMG_1815.JPG",
+          "/images/albums/gestante/Raissa/IMG_1816.JPG",
+          "/images/albums/gestante/Raissa/IMG_1817.JPG",
+          "/images/albums/gestante/Raissa/IMG_1818.JPG"
+        ]
+      },
+      {
+        "slug": "rebeca",
+        "name": "Rebeca",
+        "cover": "/images/albums/gestante/Rebeca/1.jpg",
+        "photos": [
+          "/images/albums/gestante/Rebeca/1.jpg",
+          "/images/albums/gestante/Rebeca/2.jpg",
+          "/images/albums/gestante/Rebeca/3.jpg",
+          "/images/albums/gestante/Rebeca/4.jpg",
+          "/images/albums/gestante/Rebeca/5.jpg",
+          "/images/albums/gestante/Rebeca/6.jpg"
         ]
       },
       {
@@ -308,31 +351,18 @@
         ]
       },
       {
-        "slug": "steffany",
-        "name": "Steffany",
-        "cover": "/images/albums/gestante/Steffany/1.jpg",
+        "slug": "stephanie",
+        "name": "Stephanie",
+        "cover": "/images/albums/gestante/Stephanie/1.jpg",
         "photos": [
-          "/images/albums/gestante/Steffany/1.jpg",
-          "/images/albums/gestante/Steffany/2.jpg",
-          "/images/albums/gestante/Steffany/3.jpg",
-          "/images/albums/gestante/Steffany/4.jpg",
-          "/images/albums/gestante/Steffany/5.jpg",
-          "/images/albums/gestante/Steffany/6.jpg"
-        ]
-      },
-      {
-        "slug": "stephanie---gestante",
-        "name": "Stephanie   Gestante",
-        "cover": "/images/albums/gestante/Stephanie%20-%20gestante/1.jpg",
-        "photos": [
-          "/images/albums/gestante/Stephanie%20-%20gestante/1.jpg",
-          "/images/albums/gestante/Stephanie%20-%20gestante/2.jpg",
-          "/images/albums/gestante/Stephanie%20-%20gestante/3.jpg",
-          "/images/albums/gestante/Stephanie%20-%20gestante/4.jpg",
-          "/images/albums/gestante/Stephanie%20-%20gestante/5.jpg",
-          "/images/albums/gestante/Stephanie%20-%20gestante/6.jpg",
-          "/images/albums/gestante/Stephanie%20-%20gestante/7.jpg",
-          "/images/albums/gestante/Stephanie%20-%20gestante/8.jpg"
+          "/images/albums/gestante/Stephanie/1.jpg",
+          "/images/albums/gestante/Stephanie/2.jpg",
+          "/images/albums/gestante/Stephanie/3.jpg",
+          "/images/albums/gestante/Stephanie/4.jpg",
+          "/images/albums/gestante/Stephanie/5.jpg",
+          "/images/albums/gestante/Stephanie/6.jpg",
+          "/images/albums/gestante/Stephanie/7.jpg",
+          "/images/albums/gestante/Stephanie/8.jpg"
         ]
       }
     ]
@@ -342,72 +372,25 @@
     "albums": [
       {
         "slug": "1-mes-alexandre",
-        "name": "1 Mes Alexandre",
-        "cover": "/images/albums/acompanhamento/1%20mes%20Alexandre/1.jpg",
+        "name": "1 Mês Alexandre",
+        "cover": "/images/albums/acompanhamento/1%20me%CC%82s%20Alexandre/1.jpg",
         "photos": [
-          "/images/albums/acompanhamento/1%20mes%20Alexandre/1.jpg",
-          "/images/albums/acompanhamento/1%20mes%20Alexandre/2.jpg",
-          "/images/albums/acompanhamento/1%20mes%20Alexandre/3.jpg"
+          "/images/albums/acompanhamento/1%20me%CC%82s%20Alexandre/1.jpg",
+          "/images/albums/acompanhamento/1%20me%CC%82s%20Alexandre/2.jpg",
+          "/images/albums/acompanhamento/1%20me%CC%82s%20Alexandre/3.jpg"
         ]
       },
       {
         "slug": "1-mes-augusto",
-        "name": "1 Mes Augusto",
-        "cover": "/images/albums/acompanhamento/1%20mes%20Augusto/1.jpg",
+        "name": "1 Mês Augusto",
+        "cover": "/images/albums/acompanhamento/1%20me%CC%82s%20Augusto/1.jpg",
         "photos": [
-          "/images/albums/acompanhamento/1%20mes%20Augusto/1.jpg",
-          "/images/albums/acompanhamento/1%20mes%20Augusto/2.jpg",
-          "/images/albums/acompanhamento/1%20mes%20Augusto/3.jpg",
-          "/images/albums/acompanhamento/1%20mes%20Augusto/4.jpg",
-          "/images/albums/acompanhamento/1%20mes%20Augusto/5.jpg",
-          "/images/albums/acompanhamento/1%20mes%20Augusto/6.jpg"
-        ]
-      },
-      {
-        "slug": "1-ms-lorenzo",
-        "name": "1 Mês Lorenzo",
-        "cover": "/images/albums/acompanhamento/1%20m%C3%AAs%20Lorenzo/1.jpg",
-        "photos": [
-          "/images/albums/acompanhamento/1%20m%C3%AAs%20Lorenzo/1.jpg",
-          "/images/albums/acompanhamento/1%20m%C3%AAs%20Lorenzo/2.jpg",
-          "/images/albums/acompanhamento/1%20m%C3%AAs%20Lorenzo/3.jpg",
-          "/images/albums/acompanhamento/1%20m%C3%AAs%20Lorenzo/4.jpg",
-          "/images/albums/acompanhamento/1%20m%C3%AAs%20Lorenzo/5.jpg"
-        ]
-      },
-      {
-        "slug": "10-meses-luna",
-        "name": "10 Meses Luna",
-        "cover": "/images/albums/acompanhamento/10%20meses%20Luna/1.jpg",
-        "photos": [
-          "/images/albums/acompanhamento/10%20meses%20Luna/1.jpg",
-          "/images/albums/acompanhamento/10%20meses%20Luna/2.jpg",
-          "/images/albums/acompanhamento/10%20meses%20Luna/3.jpg"
-        ]
-      },
-      {
-        "slug": "11-meses-luna",
-        "name": "11 Meses Luna",
-        "cover": "/images/albums/acompanhamento/11%20meses%20Luna/1.jpg",
-        "photos": [
-          "/images/albums/acompanhamento/11%20meses%20Luna/1.jpg",
-          "/images/albums/acompanhamento/11%20meses%20Luna/2.jpg",
-          "/images/albums/acompanhamento/11%20meses%20Luna/3.jpg",
-          "/images/albums/acompanhamento/11%20meses%20Luna/4.jpg",
-          "/images/albums/acompanhamento/11%20meses%20Luna/5.jpg",
-          "/images/albums/acompanhamento/11%20meses%20Luna/6.jpg"
-        ]
-      },
-      {
-        "slug": "12-meses-heitor",
-        "name": "12 Meses Heitor",
-        "cover": "/images/albums/acompanhamento/12%20meses%20Heitor/1.jpg",
-        "photos": [
-          "/images/albums/acompanhamento/12%20meses%20Heitor/1.jpg",
-          "/images/albums/acompanhamento/12%20meses%20Heitor/2.jpg",
-          "/images/albums/acompanhamento/12%20meses%20Heitor/3.jpg",
-          "/images/albums/acompanhamento/12%20meses%20Heitor/4.jpg",
-          "/images/albums/acompanhamento/12%20meses%20Heitor/5.jpg"
+          "/images/albums/acompanhamento/1%20me%CC%82s%20Augusto/1.jpg",
+          "/images/albums/acompanhamento/1%20me%CC%82s%20Augusto/2.jpg",
+          "/images/albums/acompanhamento/1%20me%CC%82s%20Augusto/3.jpg",
+          "/images/albums/acompanhamento/1%20me%CC%82s%20Augusto/4.jpg",
+          "/images/albums/acompanhamento/1%20me%CC%82s%20Augusto/5.jpg",
+          "/images/albums/acompanhamento/1%20me%CC%82s%20Augusto/6.jpg"
         ]
       },
       {
@@ -424,16 +407,6 @@
         ]
       },
       {
-        "slug": "2-meses-lorenzo",
-        "name": "2 Meses Lorenzo",
-        "cover": "/images/albums/acompanhamento/2%20meses%20Lorenzo/1.jpg",
-        "photos": [
-          "/images/albums/acompanhamento/2%20meses%20Lorenzo/1.jpg",
-          "/images/albums/acompanhamento/2%20meses%20Lorenzo/2.jpg",
-          "/images/albums/acompanhamento/2%20meses%20Lorenzo/3.jpg"
-        ]
-      },
-      {
         "slug": "3-meses-alexandre",
         "name": "3 Meses Alexandre",
         "cover": "/images/albums/acompanhamento/3%20meses%20Alexandre/1.jpg",
@@ -443,17 +416,6 @@
           "/images/albums/acompanhamento/3%20meses%20Alexandre/3.jpg",
           "/images/albums/acompanhamento/3%20meses%20Alexandre/4.jpg",
           "/images/albums/acompanhamento/3%20meses%20Alexandre/5.jpg"
-        ]
-      },
-      {
-        "slug": "3-meses-lorenzo",
-        "name": "3 Meses Lorenzo",
-        "cover": "/images/albums/acompanhamento/3%20meses%20Lorenzo/1.jpg",
-        "photos": [
-          "/images/albums/acompanhamento/3%20meses%20Lorenzo/1.jpg",
-          "/images/albums/acompanhamento/3%20meses%20Lorenzo/2.jpg",
-          "/images/albums/acompanhamento/3%20meses%20Lorenzo/3.jpg",
-          "/images/albums/acompanhamento/3%20meses%20Lorenzo/4.jpg"
         ]
       },
       {
@@ -486,6 +448,18 @@
         ]
       },
       {
+        "slug": "4-meses-eloa",
+        "name": "4 Meses Eloá",
+        "cover": "/images/albums/acompanhamento/4%20meses%20Eloa%CC%81/IMG_1825.JPG",
+        "photos": [
+          "/images/albums/acompanhamento/4%20meses%20Eloa%CC%81/IMG_1825.JPG",
+          "/images/albums/acompanhamento/4%20meses%20Eloa%CC%81/IMG_1826.JPG",
+          "/images/albums/acompanhamento/4%20meses%20Eloa%CC%81/IMG_1827.JPG",
+          "/images/albums/acompanhamento/4%20meses%20Eloa%CC%81/IMG_1828.JPG",
+          "/images/albums/acompanhamento/4%20meses%20Eloa%CC%81/IMG_1829.JPG"
+        ]
+      },
+      {
         "slug": "4-meses-lorenzo",
         "name": "4 Meses Lorenzo",
         "cover": "/images/albums/acompanhamento/4%20meses%20Lorenzo/1.jpg",
@@ -512,6 +486,19 @@
         ]
       },
       {
+        "slug": "5-meses-aurora-",
+        "name": "5 Meses Aurora ",
+        "cover": "/images/albums/acompanhamento/5%20meses%20Aurora%20/IMG_1819.JPG",
+        "photos": [
+          "/images/albums/acompanhamento/5%20meses%20Aurora%20/IMG_1819.JPG",
+          "/images/albums/acompanhamento/5%20meses%20Aurora%20/IMG_1820.JPG",
+          "/images/albums/acompanhamento/5%20meses%20Aurora%20/IMG_1821.JPG",
+          "/images/albums/acompanhamento/5%20meses%20Aurora%20/IMG_1822.JPG",
+          "/images/albums/acompanhamento/5%20meses%20Aurora%20/IMG_1823.JPG",
+          "/images/albums/acompanhamento/5%20meses%20Aurora%20/IMG_1824.JPG"
+        ]
+      },
+      {
         "slug": "6-meses-augusto",
         "name": "6 Meses Augusto",
         "cover": "/images/albums/acompanhamento/6%20meses%20Augusto/1.jpg",
@@ -524,6 +511,17 @@
           "/images/albums/acompanhamento/6%20meses%20Augusto/6.jpg",
           "/images/albums/acompanhamento/6%20meses%20Augusto/7.jpg",
           "/images/albums/acompanhamento/6%20meses%20Augusto/8.jpg"
+        ]
+      },
+      {
+        "slug": "6-meses-luiz-miguel",
+        "name": "6 Meses Luiz Miguel",
+        "cover": "/images/albums/acompanhamento/6%20meses%20Luiz%20Miguel/IMG_1836.JPG",
+        "photos": [
+          "/images/albums/acompanhamento/6%20meses%20Luiz%20Miguel/IMG_1836.JPG",
+          "/images/albums/acompanhamento/6%20meses%20Luiz%20Miguel/IMG_1837.JPG",
+          "/images/albums/acompanhamento/6%20meses%20Luiz%20Miguel/IMG_1838.JPG",
+          "/images/albums/acompanhamento/6%20meses%20Luiz%20Miguel/IMG_1839.JPG"
         ]
       },
       {
@@ -561,6 +559,19 @@
         ]
       },
       {
+        "slug": "9-meses-eloa",
+        "name": "9 Meses Eloá",
+        "cover": "/images/albums/acompanhamento/9%20meses%20Eloa%CC%81/IMG_1830.JPG",
+        "photos": [
+          "/images/albums/acompanhamento/9%20meses%20Eloa%CC%81/IMG_1830.JPG",
+          "/images/albums/acompanhamento/9%20meses%20Eloa%CC%81/IMG_1831.JPG",
+          "/images/albums/acompanhamento/9%20meses%20Eloa%CC%81/IMG_1832.JPG",
+          "/images/albums/acompanhamento/9%20meses%20Eloa%CC%81/IMG_1833.JPG",
+          "/images/albums/acompanhamento/9%20meses%20Eloa%CC%81/IMG_1834.JPG",
+          "/images/albums/acompanhamento/9%20meses%20Eloa%CC%81/IMG_1835.JPG"
+        ]
+      },
+      {
         "slug": "9-meses-luna",
         "name": "9 Meses Luna",
         "cover": "/images/albums/acompanhamento/9%20meses%20Luna/1.jpg",
@@ -574,25 +585,35 @@
           "/images/albums/acompanhamento/9%20meses%20Luna/7.jpg",
           "/images/albums/acompanhamento/9%20meses%20Luna/8.jpg"
         ]
+      },
+      {
+        "slug": "10-meses-luna",
+        "name": "10 Meses Luna",
+        "cover": "/images/albums/acompanhamento/10%20meses%20Luna/1.jpg",
+        "photos": [
+          "/images/albums/acompanhamento/10%20meses%20Luna/1.jpg",
+          "/images/albums/acompanhamento/10%20meses%20Luna/2.jpg",
+          "/images/albums/acompanhamento/10%20meses%20Luna/3.jpg"
+        ]
+      },
+      {
+        "slug": "11-meses-luna",
+        "name": "11 Meses Luna",
+        "cover": "/images/albums/acompanhamento/11%20meses%20Luna/1.jpg",
+        "photos": [
+          "/images/albums/acompanhamento/11%20meses%20Luna/1.jpg",
+          "/images/albums/acompanhamento/11%20meses%20Luna/2.jpg",
+          "/images/albums/acompanhamento/11%20meses%20Luna/3.jpg",
+          "/images/albums/acompanhamento/11%20meses%20Luna/4.jpg",
+          "/images/albums/acompanhamento/11%20meses%20Luna/5.jpg",
+          "/images/albums/acompanhamento/11%20meses%20Luna/6.jpg"
+        ]
       }
     ]
   },
   "familia": {
     "name": "Família",
     "albums": [
-      {
-        "slug": "joelma",
-        "name": "Joelma",
-        "cover": "/images/albums/familia/Joelma/1.jpg",
-        "photos": [
-          "/images/albums/familia/Joelma/1.jpg",
-          "/images/albums/familia/Joelma/2.jpg",
-          "/images/albums/familia/Joelma/3.jpg",
-          "/images/albums/familia/Joelma/4.jpg",
-          "/images/albums/familia/Joelma/5.jpg",
-          "/images/albums/familia/Joelma/6.jpg"
-        ]
-      },
       {
         "slug": "manu",
         "name": "Manu",
@@ -627,16 +648,6 @@
         ]
       },
       {
-        "slug": "sheyla",
-        "name": "Sheyla",
-        "cover": "/images/albums/familia/Sheyla/1.jpg",
-        "photos": [
-          "/images/albums/familia/Sheyla/1.jpg",
-          "/images/albums/familia/Sheyla/2.jpg",
-          "/images/albums/familia/Sheyla/3.jpg"
-        ]
-      },
-      {
         "slug": "steffany",
         "name": "Steffany",
         "cover": "/images/albums/familia/Steffany/1.jpg",
@@ -657,45 +668,45 @@
     "name": "Smash the Cake",
     "albums": [
       {
-        "slug": "alice-1-ano",
-        "name": "Alice 1 Ano",
-        "cover": "/images/albums/smash-the-cake/Alice%201%20ano/1.jpg",
+        "slug": "alice",
+        "name": "Alice",
+        "cover": "/images/albums/smash-the-cake/Alice/1.jpg",
         "photos": [
-          "/images/albums/smash-the-cake/Alice%201%20ano/1.jpg",
-          "/images/albums/smash-the-cake/Alice%201%20ano/2.jpg",
-          "/images/albums/smash-the-cake/Alice%201%20ano/3.jpg",
-          "/images/albums/smash-the-cake/Alice%201%20ano/4.jpg",
-          "/images/albums/smash-the-cake/Alice%201%20ano/5.jpg",
-          "/images/albums/smash-the-cake/Alice%201%20ano/6.jpg",
-          "/images/albums/smash-the-cake/Alice%201%20ano/7.jpg",
-          "/images/albums/smash-the-cake/Alice%201%20ano/8.jpg"
+          "/images/albums/smash-the-cake/Alice/1.jpg",
+          "/images/albums/smash-the-cake/Alice/2.jpg",
+          "/images/albums/smash-the-cake/Alice/3.jpg",
+          "/images/albums/smash-the-cake/Alice/4.jpg",
+          "/images/albums/smash-the-cake/Alice/5.jpg",
+          "/images/albums/smash-the-cake/Alice/6.jpg",
+          "/images/albums/smash-the-cake/Alice/7.jpg",
+          "/images/albums/smash-the-cake/Alice/8.jpg"
         ]
       },
       {
-        "slug": "arthur---smash-the-cake",
-        "name": "Arthur   Smash The Cake",
-        "cover": "/images/albums/smash-the-cake/Arthur%20-%20smash%20the%20cake/1.jpg",
+        "slug": "arthur",
+        "name": "Arthur",
+        "cover": "/images/albums/smash-the-cake/Arthur/1.jpg",
         "photos": [
-          "/images/albums/smash-the-cake/Arthur%20-%20smash%20the%20cake/1.jpg",
-          "/images/albums/smash-the-cake/Arthur%20-%20smash%20the%20cake/2.jpg",
-          "/images/albums/smash-the-cake/Arthur%20-%20smash%20the%20cake/3.jpg",
-          "/images/albums/smash-the-cake/Arthur%20-%20smash%20the%20cake/4.jpg",
-          "/images/albums/smash-the-cake/Arthur%20-%20smash%20the%20cake/5.jpg",
-          "/images/albums/smash-the-cake/Arthur%20-%20smash%20the%20cake/6.jpg",
-          "/images/albums/smash-the-cake/Arthur%20-%20smash%20the%20cake/7.jpg"
+          "/images/albums/smash-the-cake/Arthur/1.jpg",
+          "/images/albums/smash-the-cake/Arthur/2.jpg",
+          "/images/albums/smash-the-cake/Arthur/3.jpg",
+          "/images/albums/smash-the-cake/Arthur/4.jpg",
+          "/images/albums/smash-the-cake/Arthur/5.jpg",
+          "/images/albums/smash-the-cake/Arthur/6.jpg",
+          "/images/albums/smash-the-cake/Arthur/7.jpg"
         ]
       },
       {
-        "slug": "bruno---smash-the-cake",
-        "name": "Bruno   Smash The Cake",
-        "cover": "/images/albums/smash-the-cake/Bruno%20-%20smash%20the%20cake/1.jpg",
+        "slug": "bruno",
+        "name": "Bruno",
+        "cover": "/images/albums/smash-the-cake/Bruno/1.jpg",
         "photos": [
-          "/images/albums/smash-the-cake/Bruno%20-%20smash%20the%20cake/1.jpg",
-          "/images/albums/smash-the-cake/Bruno%20-%20smash%20the%20cake/2.jpg",
-          "/images/albums/smash-the-cake/Bruno%20-%20smash%20the%20cake/3.jpg",
-          "/images/albums/smash-the-cake/Bruno%20-%20smash%20the%20cake/4.jpg",
-          "/images/albums/smash-the-cake/Bruno%20-%20smash%20the%20cake/5.jpg",
-          "/images/albums/smash-the-cake/Bruno%20-%20smash%20the%20cake/6.jpg"
+          "/images/albums/smash-the-cake/Bruno/1.jpg",
+          "/images/albums/smash-the-cake/Bruno/2.jpg",
+          "/images/albums/smash-the-cake/Bruno/3.jpg",
+          "/images/albums/smash-the-cake/Bruno/4.jpg",
+          "/images/albums/smash-the-cake/Bruno/5.jpg",
+          "/images/albums/smash-the-cake/Bruno/6.jpg"
         ]
       },
       {
@@ -711,16 +722,16 @@
         ]
       },
       {
-        "slug": "helena---smash-the-cake",
-        "name": "Helena   Smash The Cake",
-        "cover": "/images/albums/smash-the-cake/Helena%20-%20smash%20the%20cake/1.jpg",
+        "slug": "helena",
+        "name": "Helena",
+        "cover": "/images/albums/smash-the-cake/Helena/1.jpg",
         "photos": [
-          "/images/albums/smash-the-cake/Helena%20-%20smash%20the%20cake/1.jpg",
-          "/images/albums/smash-the-cake/Helena%20-%20smash%20the%20cake/2.jpg",
-          "/images/albums/smash-the-cake/Helena%20-%20smash%20the%20cake/3.jpg",
-          "/images/albums/smash-the-cake/Helena%20-%20smash%20the%20cake/4.jpg",
-          "/images/albums/smash-the-cake/Helena%20-%20smash%20the%20cake/5.jpg",
-          "/images/albums/smash-the-cake/Helena%20-%20smash%20the%20cake/6.jpg"
+          "/images/albums/smash-the-cake/Helena/1.jpg",
+          "/images/albums/smash-the-cake/Helena/2.jpg",
+          "/images/albums/smash-the-cake/Helena/3.jpg",
+          "/images/albums/smash-the-cake/Helena/4.jpg",
+          "/images/albums/smash-the-cake/Helena/5.jpg",
+          "/images/albums/smash-the-cake/Helena/6.jpg"
         ]
       },
       {

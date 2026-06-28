@@ -6,22 +6,12 @@
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://monynaldoni.com/portfolio/newborn/alice---newborn</loc>
+    <loc>https://monynaldoni.com/portfolio/newborn/antonella</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://monynaldoni.com/portfolio/newborn/bernardo---newborn</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://monynaldoni.com/portfolio/newborn/claire</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://monynaldoni.com/portfolio/newborn/elias</loc>
+    <loc>https://monynaldoni.com/portfolio/newborn/bernardo</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -31,22 +21,37 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://monynaldoni.com/portfolio/newborn/lev---newborn</loc>
+    <loc>https://monynaldoni.com/portfolio/newborn/jose-gael</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://monynaldoni.com/portfolio/newborn/luisa---newborn</loc>
+    <loc>https://monynaldoni.com/portfolio/newborn/levi</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://monynaldoni.com/portfolio/newborn/miguel---newborn</loc>
+    <loc>https://monynaldoni.com/portfolio/newborn/luisa</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://monynaldoni.com/portfolio/newborn/rafael---newborn</loc>
+    <loc>https://monynaldoni.com/portfolio/newborn/miguel</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://monynaldoni.com/portfolio/newborn/noah</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://monynaldoni.com/portfolio/newborn/rafael</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://monynaldoni.com/portfolio/newborn/ravi</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -56,12 +61,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://monynaldoni.com/portfolio/gestante/aline---gestante-externo</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://monynaldoni.com/portfolio/gestante/ana</loc>
+    <loc>https://monynaldoni.com/portfolio/gestante/aline</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -71,37 +71,42 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://monynaldoni.com/portfolio/gestante/carla</loc>
+    <loc>https://monynaldoni.com/portfolio/gestante/deborah</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://monynaldoni.com/portfolio/gestante/dariana---gestante-estdio</loc>
+    <loc>https://monynaldoni.com/portfolio/gestante/francyne</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://monynaldoni.com/portfolio/gestante/deborah---gestante</loc>
+    <loc>https://monynaldoni.com/portfolio/gestante/geovania</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://monynaldoni.com/portfolio/gestante/geovania---gestante-externo-praia</loc>
+    <loc>https://monynaldoni.com/portfolio/gestante/giovana</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://monynaldoni.com/portfolio/gestante/isa</loc>
+    <loc>https://monynaldoni.com/portfolio/gestante/giulia</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://monynaldoni.com/portfolio/gestante/naycelle---gestante-estdio</loc>
+    <loc>https://monynaldoni.com/portfolio/gestante/paola</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://monynaldoni.com/portfolio/gestante/rebeca---gestante-estdio</loc>
+    <loc>https://monynaldoni.com/portfolio/gestante/raissa</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://monynaldoni.com/portfolio/gestante/rebeca</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -111,12 +116,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://monynaldoni.com/portfolio/gestante/steffany</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://monynaldoni.com/portfolio/gestante/stephanie---gestante</loc>
+    <loc>https://monynaldoni.com/portfolio/gestante/stephanie</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -131,11 +131,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://monynaldoni.com/portfolio/acompanhamento/1-ms-lorenzo</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://monynaldoni.com/portfolio/acompanhamento/10-meses-luna</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -146,27 +141,12 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://monynaldoni.com/portfolio/acompanhamento/12-meses-heitor</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://monynaldoni.com/portfolio/acompanhamento/2-meses-augusto</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://monynaldoni.com/portfolio/acompanhamento/2-meses-lorenzo</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://monynaldoni.com/portfolio/acompanhamento/3-meses-alexandre</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://monynaldoni.com/portfolio/acompanhamento/3-meses-lorenzo</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -181,6 +161,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://monynaldoni.com/portfolio/acompanhamento/4-meses-eloa</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://monynaldoni.com/portfolio/acompanhamento/4-meses-lorenzo</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -191,7 +176,17 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://monynaldoni.com/portfolio/acompanhamento/5-meses-aurora-</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://monynaldoni.com/portfolio/acompanhamento/6-meses-augusto</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://monynaldoni.com/portfolio/acompanhamento/6-meses-luiz-miguel</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -211,12 +206,12 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://monynaldoni.com/portfolio/acompanhamento/9-meses-luna</loc>
+    <loc>https://monynaldoni.com/portfolio/acompanhamento/9-meses-eloa</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://monynaldoni.com/portfolio/familia/joelma</loc>
+    <loc>https://monynaldoni.com/portfolio/acompanhamento/9-meses-luna</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -231,27 +226,22 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://monynaldoni.com/portfolio/familia/sheyla</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://monynaldoni.com/portfolio/familia/steffany</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://monynaldoni.com/portfolio/smash-the-cake/alice-1-ano</loc>
+    <loc>https://monynaldoni.com/portfolio/smash-the-cake/alice</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://monynaldoni.com/portfolio/smash-the-cake/arthur---smash-the-cake</loc>
+    <loc>https://monynaldoni.com/portfolio/smash-the-cake/arthur</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://monynaldoni.com/portfolio/smash-the-cake/bruno---smash-the-cake</loc>
+    <loc>https://monynaldoni.com/portfolio/smash-the-cake/bruno</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -261,7 +251,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://monynaldoni.com/portfolio/smash-the-cake/helena---smash-the-cake</loc>
+    <loc>https://monynaldoni.com/portfolio/smash-the-cake/helena</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>

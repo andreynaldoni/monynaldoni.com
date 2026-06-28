@@ -1,0 +1,29 @@
+{
+  "slides": [
+    {
+      "cover": "/images/albums/newborn/Antonella/IMG_1872.JPG",
+      "name": "Newborn",
+      "slug": "newborn"
+    },
+    {
+      "cover": "/images/albums/gestante/Francyne/IMG_1772.JPG",
+      "name": "Gestante",
+      "slug": "gestante"
+    },
+    {
+      "cover": "/images/albums/acompanhamento/9%20meses%20Eloa%CC%81/IMG_1834.JPG",
+      "name": "Acompanhamento",
+      "slug": "acompanhamento"
+    },
+    {
+      "cover": "/images/albums/familia/Manu/10.jpg",
+      "name": "Família",
+      "slug": "familia"
+    },
+    {
+      "cover": "/images/albums/smash-the-cake/Luna/1.jpg",
+      "name": "Smash the Cake",
+      "slug": "smash-the-cake"
+    }
+  ]
+}

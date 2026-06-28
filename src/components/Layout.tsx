@@ -1,4 +1,4 @@
-import { Mail, MapPin, Menu, Phone, X } from "lucide-react"
+import { MapPin, Menu, X } from "lucide-react"
 import type { ReactNode } from "react"
 import { useState } from "react"
 import { Link, useLocation } from "react-router-dom"
@@ -80,7 +80,12 @@ export default function Layout({ children }: LayoutProps) {
       >
         {/* Logo / Photo */}
         <div className="p-6 text-center border-b border-stone-700">
-          <Link to="/" onClick={() => setMenuOpen(false)}>
+          <Link
+            to="https://wa.me/5513974020581"
+            target="_blank"
+            rel="noopener noreferrer"
+            onClick={() => setMenuOpen(false)}
+          >
             <img
               src="/images/author-1.jpg"
               alt="Mony Naldoni"
@@ -88,6 +93,7 @@ export default function Layout({ children }: LayoutProps) {
             />
             <h1 className="text-xl font-heading text-primary">Mony Naldoni</h1>
             <p className="text-xs text-stone-400 mt-1">Fotografia</p>
+            <p className="text-xs text-stone-400 mt-1">(13) 9 7402-0581</p>
           </Link>
         </div>
 
@@ -182,7 +188,7 @@ export default function Layout({ children }: LayoutProps) {
                     <span>+55 (13) 9 7402-0581</span>
                   </a>
                 </li>
-                <li>
+                {/* <li>
                   <a
                     href="tel:+5513974020581"
                     className="flex items-center gap-3 hover:text-primary transition-colors"
@@ -190,8 +196,8 @@ export default function Layout({ children }: LayoutProps) {
                     <Phone size={16} className="text-primary" />
                     <span>Ligar</span>
                   </a>
-                </li>
-                <li>
+                </li> */}
+                {/* <li>
                   <a
                     href="mailto:monyza.mk@gmail.com"
                     className="flex items-center gap-3 hover:text-primary transition-colors"
@@ -199,7 +205,7 @@ export default function Layout({ children }: LayoutProps) {
                     <Mail size={16} className="text-primary" />
                     <span>monyza.mk@gmail.com</span>
                   </a>
-                </li>
+                </li> */}
                 <li>
                   <a
                     href="https://maps.google.com/?q=Av.+Presidente+Kennedy,+4751+-+Vila+Tupi,+Praia+Grande"
