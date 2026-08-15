@@ -57,8 +57,11 @@ function scanAlbums() {
       const coverIndex = photos.findIndex((photo) => /^capa\.(jpg|jpeg|png|webp)$/i.test(photo))
       const coverPhoto = coverIndex >= 0 ? photos[coverIndex] : photos[0]
 
-      // Encode folder and file names for URLs
-      const encodedFolder = encodeURIComponent(albumFolder)
+      // Encode folder and file names for URLs.
+      // NFC first: macOS stores names as NFD, but git (core.precomposeunicode)
+      // commits NFC, so NFD paths 404 on GitHub Pages while working locally.
+      const enc = (name) => encodeURIComponent(name.normalize("NFC"))
+      const encodedFolder = enc(albumFolder)
 
       albums.push({
         slug: albumFolder
@@ -66,9 +69,9 @@ function scanAlbums() {
           .replace(/\s+/g, "-")
           .replace(/[^\w-]/g, ""),
         name: capitalizeName(albumFolder),
-        cover: `/images/albums/${categorySlug}/${encodedFolder}/${encodeURIComponent(coverPhoto)}`,
+        cover: `/images/albums/${categorySlug}/${encodedFolder}/${enc(coverPhoto)}`,
         photos: photos.map(
-          (photo) => `/images/albums/${categorySlug}/${encodedFolder}/${encodeURIComponent(photo)}`,
+          (photo) => `/images/albums/${categorySlug}/${encodedFolder}/${enc(photo)}`,
         ),
       })
     }

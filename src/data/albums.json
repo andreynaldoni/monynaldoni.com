@@ -49,34 +49,34 @@
       },
       {
         "slug": "jose-gael",
-        "name": "José Gael",
-        "cover": "/images/albums/newborn/Jose%CC%81%20Gael/IMG_1873.JPG",
+        "name": "José Gael",
+        "cover": "/images/albums/newborn/Jos%C3%A9%20Gael/IMG_1873.JPG",
         "photos": [
-          "/images/albums/newborn/Jose%CC%81%20Gael/IMG_1873.JPG",
-          "/images/albums/newborn/Jose%CC%81%20Gael/IMG_1874.JPG",
-          "/images/albums/newborn/Jose%CC%81%20Gael/IMG_1875.JPG",
-          "/images/albums/newborn/Jose%CC%81%20Gael/IMG_1876.JPG",
-          "/images/albums/newborn/Jose%CC%81%20Gael/IMG_1877.JPG",
-          "/images/albums/newborn/Jose%CC%81%20Gael/IMG_1878.JPG",
-          "/images/albums/newborn/Jose%CC%81%20Gael/IMG_1879.JPG",
-          "/images/albums/newborn/Jose%CC%81%20Gael/IMG_1880.JPG",
-          "/images/albums/newborn/Jose%CC%81%20Gael/IMG_1881.JPG",
-          "/images/albums/newborn/Jose%CC%81%20Gael/IMG_1882.JPG",
-          "/images/albums/newborn/Jose%CC%81%20Gael/IMG_1883.JPG"
+          "/images/albums/newborn/Jos%C3%A9%20Gael/IMG_1873.JPG",
+          "/images/albums/newborn/Jos%C3%A9%20Gael/IMG_1874.JPG",
+          "/images/albums/newborn/Jos%C3%A9%20Gael/IMG_1875.JPG",
+          "/images/albums/newborn/Jos%C3%A9%20Gael/IMG_1876.JPG",
+          "/images/albums/newborn/Jos%C3%A9%20Gael/IMG_1877.JPG",
+          "/images/albums/newborn/Jos%C3%A9%20Gael/IMG_1878.JPG",
+          "/images/albums/newborn/Jos%C3%A9%20Gael/IMG_1879.JPG",
+          "/images/albums/newborn/Jos%C3%A9%20Gael/IMG_1880.JPG",
+          "/images/albums/newborn/Jos%C3%A9%20Gael/IMG_1881.JPG",
+          "/images/albums/newborn/Jos%C3%A9%20Gael/IMG_1882.JPG",
+          "/images/albums/newborn/Jos%C3%A9%20Gael/IMG_1883.JPG"
         ]
       },
       {
         "slug": "levi",
-        "name": "Leví",
-        "cover": "/images/albums/newborn/Levi%CC%81/1.jpg",
+        "name": "Leví",
+        "cover": "/images/albums/newborn/Lev%C3%AD/1.jpg",
         "photos": [
-          "/images/albums/newborn/Levi%CC%81/1.jpg",
-          "/images/albums/newborn/Levi%CC%81/2.jpg",
-          "/images/albums/newborn/Levi%CC%81/3.jpg",
-          "/images/albums/newborn/Levi%CC%81/4.jpg",
-          "/images/albums/newborn/Levi%CC%81/5.jpg",
-          "/images/albums/newborn/Levi%CC%81/6.jpg",
-          "/images/albums/newborn/Levi%CC%81/7.jpg"
+          "/images/albums/newborn/Lev%C3%AD/1.jpg",
+          "/images/albums/newborn/Lev%C3%AD/2.jpg",
+          "/images/albums/newborn/Lev%C3%AD/3.jpg",
+          "/images/albums/newborn/Lev%C3%AD/4.jpg",
+          "/images/albums/newborn/Lev%C3%AD/5.jpg",
+          "/images/albums/newborn/Lev%C3%AD/6.jpg",
+          "/images/albums/newborn/Lev%C3%AD/7.jpg"
         ]
       },
       {
@@ -117,6 +117,21 @@
           "/images/albums/newborn/Noah/IMG_1861.JPG",
           "/images/albums/newborn/Noah/IMG_1862.JPG",
           "/images/albums/newborn/Noah/IMG_1863.JPG"
+        ]
+      },
+      {
+        "slug": "rael",
+        "name": "Rael",
+        "cover": "/images/albums/newborn/Rael/IMG_1885.JPG",
+        "photos": [
+          "/images/albums/newborn/Rael/IMG_1885.JPG",
+          "/images/albums/newborn/Rael/IMG_1886.JPG",
+          "/images/albums/newborn/Rael/IMG_1887.JPG",
+          "/images/albums/newborn/Rael/IMG_1888.JPG",
+          "/images/albums/newborn/Rael/IMG_1889.JPG",
+          "/images/albums/newborn/Rael/IMG_1890.JPG",
+          "/images/albums/newborn/Rael/IMG_1891.JPG",
+          "/images/albums/newborn/Rael/IMG_1892.JPG"
         ]
       },
       {
@@ -372,25 +387,25 @@
     "albums": [
       {
         "slug": "1-mes-alexandre",
-        "name": "1 Mês Alexandre",
-        "cover": "/images/albums/acompanhamento/1%20me%CC%82s%20Alexandre/1.jpg",
+        "name": "1 Mês Alexandre",
+        "cover": "/images/albums/acompanhamento/1%20m%C3%AAs%20Alexandre/1.jpg",
         "photos": [
-          "/images/albums/acompanhamento/1%20me%CC%82s%20Alexandre/1.jpg",
-          "/images/albums/acompanhamento/1%20me%CC%82s%20Alexandre/2.jpg",
-          "/images/albums/acompanhamento/1%20me%CC%82s%20Alexandre/3.jpg"
+          "/images/albums/acompanhamento/1%20m%C3%AAs%20Alexandre/1.jpg",
+          "/images/albums/acompanhamento/1%20m%C3%AAs%20Alexandre/2.jpg",
+          "/images/albums/acompanhamento/1%20m%C3%AAs%20Alexandre/3.jpg"
         ]
       },
       {
         "slug": "1-mes-augusto",
-        "name": "1 Mês Augusto",
-        "cover": "/images/albums/acompanhamento/1%20me%CC%82s%20Augusto/1.jpg",
+        "name": "1 Mês Augusto",
+        "cover": "/images/albums/acompanhamento/1%20m%C3%AAs%20Augusto/1.jpg",
         "photos": [
-          "/images/albums/acompanhamento/1%20me%CC%82s%20Augusto/1.jpg",
-          "/images/albums/acompanhamento/1%20me%CC%82s%20Augusto/2.jpg",
-          "/images/albums/acompanhamento/1%20me%CC%82s%20Augusto/3.jpg",
-          "/images/albums/acompanhamento/1%20me%CC%82s%20Augusto/4.jpg",
-          "/images/albums/acompanhamento/1%20me%CC%82s%20Augusto/5.jpg",
-          "/images/albums/acompanhamento/1%20me%CC%82s%20Augusto/6.jpg"
+          "/images/albums/acompanhamento/1%20m%C3%AAs%20Augusto/1.jpg",
+          "/images/albums/acompanhamento/1%20m%C3%AAs%20Augusto/2.jpg",
+          "/images/albums/acompanhamento/1%20m%C3%AAs%20Augusto/3.jpg",
+          "/images/albums/acompanhamento/1%20m%C3%AAs%20Augusto/4.jpg",
+          "/images/albums/acompanhamento/1%20m%C3%AAs%20Augusto/5.jpg",
+          "/images/albums/acompanhamento/1%20m%C3%AAs%20Augusto/6.jpg"
         ]
       },
       {
@@ -449,14 +464,14 @@
       },
       {
         "slug": "4-meses-eloa",
-        "name": "4 Meses Eloá",
-        "cover": "/images/albums/acompanhamento/4%20meses%20Eloa%CC%81/IMG_1825.JPG",
+        "name": "4 Meses Eloá",
+        "cover": "/images/albums/acompanhamento/4%20meses%20Elo%C3%A1/IMG_1825.JPG",
         "photos": [
-          "/images/albums/acompanhamento/4%20meses%20Eloa%CC%81/IMG_1825.JPG",
-          "/images/albums/acompanhamento/4%20meses%20Eloa%CC%81/IMG_1826.JPG",
-          "/images/albums/acompanhamento/4%20meses%20Eloa%CC%81/IMG_1827.JPG",
-          "/images/albums/acompanhamento/4%20meses%20Eloa%CC%81/IMG_1828.JPG",
-          "/images/albums/acompanhamento/4%20meses%20Eloa%CC%81/IMG_1829.JPG"
+          "/images/albums/acompanhamento/4%20meses%20Elo%C3%A1/IMG_1825.JPG",
+          "/images/albums/acompanhamento/4%20meses%20Elo%C3%A1/IMG_1826.JPG",
+          "/images/albums/acompanhamento/4%20meses%20Elo%C3%A1/IMG_1827.JPG",
+          "/images/albums/acompanhamento/4%20meses%20Elo%C3%A1/IMG_1828.JPG",
+          "/images/albums/acompanhamento/4%20meses%20Elo%C3%A1/IMG_1829.JPG"
         ]
       },
       {
@@ -560,15 +575,15 @@
       },
       {
         "slug": "9-meses-eloa",
-        "name": "9 Meses Eloá",
-        "cover": "/images/albums/acompanhamento/9%20meses%20Eloa%CC%81/IMG_1830.JPG",
+        "name": "9 Meses Eloá",
+        "cover": "/images/albums/acompanhamento/9%20meses%20Elo%C3%A1/IMG_1830.JPG",
         "photos": [
-          "/images/albums/acompanhamento/9%20meses%20Eloa%CC%81/IMG_1830.JPG",
-          "/images/albums/acompanhamento/9%20meses%20Eloa%CC%81/IMG_1831.JPG",
-          "/images/albums/acompanhamento/9%20meses%20Eloa%CC%81/IMG_1832.JPG",
-          "/images/albums/acompanhamento/9%20meses%20Eloa%CC%81/IMG_1833.JPG",
-          "/images/albums/acompanhamento/9%20meses%20Eloa%CC%81/IMG_1834.JPG",
-          "/images/albums/acompanhamento/9%20meses%20Eloa%CC%81/IMG_1835.JPG"
+          "/images/albums/acompanhamento/9%20meses%20Elo%C3%A1/IMG_1830.JPG",
+          "/images/albums/acompanhamento/9%20meses%20Elo%C3%A1/IMG_1831.JPG",
+          "/images/albums/acompanhamento/9%20meses%20Elo%C3%A1/IMG_1832.JPG",
+          "/images/albums/acompanhamento/9%20meses%20Elo%C3%A1/IMG_1833.JPG",
+          "/images/albums/acompanhamento/9%20meses%20Elo%C3%A1/IMG_1834.JPG",
+          "/images/albums/acompanhamento/9%20meses%20Elo%C3%A1/IMG_1835.JPG"
         ]
       },
       {

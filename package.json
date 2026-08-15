@@ -15,7 +15,7 @@
     "lint:fix": "biome check --write src/",
     "format": "biome format --write src/",
     "preview": "vite preview",
-    "scan-albums": "node scripts/scan-albums.js",
+    "scan-albums": "node scripts/scan-albums.js && biome format --write src/data/",
     "generate-sitemap": "node scripts/generate-sitemap.js"
   },
   "dependencies": {
