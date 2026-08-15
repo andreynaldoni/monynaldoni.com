@@ -6,10 +6,7 @@ import "swiper/css/effect-fade"
 import heroData from "../data/hero.json"
 
 // Pick first album from each category for hero
-const slides = heroData.slides.map((slide) => ({
-  image: slide.image,
-  title: slide.title,
-}))
+const slides = heroData.slides
 
 export default function HeroSlider() {
   if (slides.length === 0) {
@@ -27,7 +24,7 @@ export default function HeroSlider() {
         className="h-full"
       >
         {slides.map((slide) => (
-          <SwiperSlide key={slide.title} className="relative">
+          <SwiperSlide key={slide.image} className="relative">
             <div
               className="absolute inset-0 bg-cover bg-center"
               style={{ backgroundImage: `url(${slide.image})` }}

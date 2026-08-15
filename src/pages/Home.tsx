@@ -118,7 +118,7 @@ export default function Home() {
               href="https://instagram.com/monynaldoni"
               target="_blank"
               rel="noopener noreferrer"
-              className="inline-block bg-linear-to-r from-purple-500 via-pink-500 to-orange-400 text-white px-8 py-3 rounded-full font-medium hover:opacity-90 transition-opacity"
+              className="inline-block bg-gradient-to-r from-purple-500 via-pink-500 to-orange-400 text-white px-8 py-3 rounded-full font-medium hover:opacity-90 transition-opacity"
             >
               Seguir @monynaldoni
             </a>
@@ -144,7 +144,7 @@ export default function Home() {
                     href="https://wa.me/5513974020581"
                     target="_blank"
                     rel="noopener noreferrer"
-                    className="flex items-center gap-4 p-4 bg-white rounded-lg shadow-sm hover:shadow-md transition-shadow group"
+                    className="flex items-center gap-4 p-4 bg-white rounded-lg shadow hover:shadow-md transition-shadow group"
                   >
                     <div className="w-12 h-12 bg-primary rounded-full flex items-center justify-center text-stone-900">
                       <WhatsAppIcon />
@@ -160,7 +160,7 @@ export default function Home() {
                 {/* <li>
                   <a
                     href="tel:+5513974020581"
-                    className="flex items-center gap-4 p-4 bg-white rounded-lg shadow-sm hover:shadow-md transition-shadow group"
+                    className="flex items-center gap-4 p-4 bg-white rounded-lg shadow hover:shadow-md transition-shadow group"
                   >
                     <div className="w-12 h-12 bg-primary rounded-full flex items-center justify-center text-stone-900">
                       <Phone size={20} />
@@ -176,7 +176,7 @@ export default function Home() {
                 {/* <li>
                   <a
                     href="mailto:monyza.mk@gmail.com"
-                    className="flex items-center gap-4 p-4 bg-white rounded-lg shadow-sm hover:shadow-md transition-shadow group"
+                    className="flex items-center gap-4 p-4 bg-white rounded-lg shadow hover:shadow-md transition-shadow group"
                   >
                     <div className="w-12 h-12 bg-primary rounded-full flex items-center justify-center text-stone-900">
                       <Mail size={20} />
@@ -196,7 +196,7 @@ export default function Home() {
                     href="https://maps.google.com/?q=Av.+Presidente+Kennedy,+4751+-+Vila+Tupi,+Praia+Grande"
                     target="_blank"
                     rel="noopener noreferrer"
-                    className="flex items-center gap-4 p-4 bg-white rounded-lg shadow-sm hover:shadow-md transition-shadow group"
+                    className="flex items-center gap-4 p-4 bg-white rounded-lg shadow hover:shadow-md transition-shadow group"
                   >
                     <div className="w-12 h-12 bg-primary rounded-full flex items-center justify-center text-stone-900">
                       <MapPin size={20} />
@@ -215,7 +215,7 @@ export default function Home() {
             </div>
 
             {/* Google Maps */}
-            <div className="rounded-lg overflow-hidden shadow-lg h-100">
+            <div className="rounded-lg overflow-hidden shadow-lg h-[25rem]">
               <iframe
                 src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3644.687128118282!2d-46.427647685694986!3d-24.00682298446359!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce1f50ff2dbe6f%3A0x873c21a3597e94c8!2sMony+Naldoni+Fotografia!5e0!3m2!1spt-BR!2sbr!4v1559761391596!5m2!1spt-BR!2sbr"
                 width="100%"
